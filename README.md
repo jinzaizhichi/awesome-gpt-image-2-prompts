@@ -520,7 +520,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| Output preview unavailable |
+| <img src="./images/poster_case10/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -575,7 +575,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| Output preview unavailable |
+| <img src="./images/poster_case14/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -601,7 +601,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| Output preview unavailable |
+| <img src="./images/poster_case24/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -654,7 +654,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Output |
 | :----: |
-| Output preview unavailable |
+| <img src="./images/poster_case28/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1444,7 +1444,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| Output preview unavailable |
+| <img src="./images/ui_case9/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -1470,7 +1470,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| Output preview unavailable |
+| <img src="./images/ui_case25/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 

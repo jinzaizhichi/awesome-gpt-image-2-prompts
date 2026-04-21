@@ -44,6 +44,7 @@ Si cela vous est utile, pensez a mettre une etoile. ⭐
 
 ## Actualites
 
+- **21 avril 2026 :** 48 nouveaux cas de prompts ont ete classes dans les sections de la galerie et les images de sortie liees ont ete telechargees
 - **21 avril 2026 :** Ajout de 12 nouveaux prompts GPT-Image-2 dans les categories portrait, affiche, UI et comparaison
 - **20 avril 2026 :** Ajout de 10 nouveaux prompts GPT-Image-2 organises avec des ressources image locales et des mises a jour du README.
 - **19 avril 2026 :** Ajout de 10 nouveaux prompts GPT-Image-2 dans les categories affiche, UI et comparaison
@@ -61,11 +62,18 @@ Si cela vous est utile, pensez a mettre une etoile. ⭐
   - [Case 4: 35mm Flash Editorial Portrait (by @BubbleBrain)](#case-4-35mm-flash-editorial-portrait-by-bubblebrain)
   - [Case 5: Mirror Selfie Bedroom Portrait (by @Shinning1010)](#case-5-mirror-selfie-bedroom-portrait-by-shinning1010)
   - [Case 6: Soft Airy 35mm Portrait (by @BubbleBrain)](#case-6-soft-airy-35mm-portrait-by-bubblebrain)
+  - [Case 7: Luxury Glam Beauty Portrait (by @patrickassale)](#case-7-luxury-glam-beauty-portrait-by-patrickassale)
   - [Case 8: 9:16 Cosplayer Portrait Screenshot (by @Zoulinshen)](#case-8-916-cosplayer-portrait-screenshot-by-zoulinshen)
   - [Case 9: Urban Turn-Back Street Portrait (by @Tz_2022)](#case-9-urban-turn-back-street-portrait-by-tz_2022)
   - [Case 10: Sam Altman Skatepark Snapshot (by @Malek1173989)](#case-10-sam-altman-skatepark-snapshot-by-malek1173989)
   - [Case 11: Korean Idol 3x3 Grid Portrait (by @BubbleBrain)](#case-11-korean-idol-3x3-grid-portrait-by-bubblebrain)
   - [Case 12: CCD Camera Flash Korean Idol (by @BubbleBrain)](#case-12-ccd-camera-flash-korean-idol-by-bubblebrain)
+  - [Case 13: Korean Idol 3x3 Collage Portrait (by @BubbleBrain)](#case-13-korean-idol-3x3-collage-portrait-by-bubblebrain)
+  - [Case 14: Soft Black Mist Editorial Portrait (by @BubbleBrain)](#case-14-soft-black-mist-editorial-portrait-by-bubblebrain)
+  - [Case 15: Fujifilm Strawberry School Portrait (by @BubbleBrain)](#case-15-fujifilm-strawberry-school-portrait-by-bubblebrain)
+  - [Case 16: Soft Black Mist Idol Portrait (by @BubbleBrain)](#case-16-soft-black-mist-idol-portrait-by-bubblebrain)
+  - [Case 17: Fujifilm Couple Portrait (by @BubbleBrain)](#case-17-fujifilm-couple-portrait-by-bubblebrain)
+  - [Case 18: AI Self-Perception Portrait (by @80vul)](#case-18-ai-self-perception-portrait-by-80vul)
 - [Cas d Affiches et d Illustration](#cas-d-affiches-et-d-illustration)
   - [Case 1: Boston Spring 2026 City Poster (by @BubbleBrain)](#case-1-boston-spring-2026-city-poster-by-bubblebrain)
   - [Case 2: Vintage Amalfi Travel Poster (by @WolfRiccardo)](#case-2-vintage-amalfi-travel-poster-by-wolfriccardo)
@@ -81,45 +89,6 @@ Si cela vous est utile, pensez a mettre une etoile. ⭐
   - [Case 13: Guangdong Super League Invitation Poster (by @liyue_ai)](#case-13-guangdong-super-league-invitation-poster-by-liyue_ai)
   - [Case 14: Spring 2026 Guangzhou Promo Poster (by @grok)](#case-14-spring-2026-guangzhou-promo-poster-by-grok)
   - [Case 15: Epic Silhouette World Poster (by @Ghhhh3owi)](#case-15-epic-silhouette-world-poster-by-ghhhh3owi)
-  - [Case 16: Summer Citrus Soda Ad Photo (by @old_pgmrs_will)](#case-16-summer-citrus-soda-ad-photo-by-old_pgmrs_will)
-  - [Case 32: Science Encyclopedia Vertical Poster (by @pfanis)](#case-32-science-encyclopedia-vertical-poster-by-pfanis)
-  - [Case 33: Journey to the West Chinese Comic (by @overseas58)](#case-33-journey-to-the-west-chinese-comic-by-overseas58)
-  - [Case 34: Character Relationship Map Poster (by @MrLarus)](#case-34-character-relationship-map-poster-by-mrlarus)
-  - [Case 35: New Chinese Ink Landscape Poster (by @liyue_ai)](#case-35-new-chinese-ink-landscape-poster-by-liyue_ai)
-  - [Case 36: AI Builder Doodle Sketch (by @opc_8838)](#case-36-ai-builder-doodle-sketch-by-opc_8838)
-  - [Case 37: Fictional Service Ad Creative Set (by @Yuupapa_free)](#case-37-fictional-service-ad-creative-set-by-yuupapa_free)
-  - [Case 38: Character Visual Vertical Poster (by @tebasaki3D)](#case-38-character-visual-vertical-poster-by-tebasaki3d)
-- [Cas de Design de Personnage](#cas-de-design-de-personnage)
-  - [Case 1: Anime Snapshot Conversion (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
-  - [Case 2: Persona5 Character Reference Card (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
-  - [Case 3: Gal Game Character Introduction Page (by @09lyco)](#case-3-gal-game-character-introduction-page-by-09lyco)
-
-  - [Case 5: Official Character Sheet (JP) (by @Toshi_nyaruo_AI)](#case-5-official-character-sheet-jp-by-toshi_nyaruo_ai)
-- [Cas de Maquettes UI et Reseaux Sociaux](#cas-de-maquettes-ui-et-reseaux-sociaux)
-  - [Case 1: One-Prompt UI Design Generation (by @austinit)](#case-1-one-prompt-ui-design-generation-by-austinit)
-  - [Case 2: Amateur iPhone Keynote Snapshot (by @patrickassale)](#case-2-amateur-iphone-keynote-snapshot-by-patrickassale)
-  - [Case 3: Handwritten Notebook Photo (by @patrickassale)](#case-3-handwritten-notebook-photo-by-patrickassale)
-  - [Case 4: Song Dynasty Social Media Feed (by @Panda20230902)](#case-4-song-dynasty-social-media-feed-by-panda20230902)
-  - [Case 5: Multi-Platform Content Screenshots (by @MrLarus)](#case-5-multi-platform-content-screenshots-by-mrlarus)
-  - [Case 7: Liu Yifei Douyin Livestream Screenshot (by @alanblogsooo)](#case-7-liu-yifei-douyin-livestream-screenshot-by-alanblogsooo)
-  - [Case 8: King Taejo Yi Seong-gye's X Page (by @SKA_Neotype)](#case-8-king-taejo-yi-seong-gyes-x-page-by-ska_neotype)
-  - [Case 9: Style-to-UI Design System (by @stark_nico99)](#case-9-style-to-ui-design-system-by-stark_nico99)
-  - [Case 10: Momotaro Explainer Slide (by @yammamon)](#case-10-momotaro-explainer-slide-by-yammamon)
-  - [Case 26: Glassy UI Design System (by @pfanis)](#case-26-glassy-ui-design-system-by-pfanis)
-- [Comparaisons et Exemples de la Communaute](#comparaisons-et-exemples-de-la-communaute)
-  - [Case 5: Wooden Bookshelf Prompt Test (by @chetaslua)](#case-5-wooden-bookshelf-prompt-test-by-chetaslua)
-  - [Case 10: GPT-Image-2 Detail Showcase (by @liyue_ai)](#case-10-gpt-image-2-detail-showcase-by-liyue_ai)
-  - [Case 16: A/B Test Signed Output (by @saskr_13)](#case-16-ab-test-signed-output-by-saskr_13)
-- [Cas d Affiches et d Illustration](#cas-d-affiches-et-d-illustration)
-  - [Case 1: Boston Spring 2026 City Poster (by @BubbleBrain)](#case-1-boston-spring-2026-city-poster-by-bubblebrain)
-  - [Case 2: Vintage Amalfi Travel Poster (by @WolfRiccardo)](#case-2-vintage-amalfi-travel-poster-by-wolfriccardo)
-  - [Case 3: Chengdu Food Map Illustration (by @Panda20230902)](#case-3-chengdu-food-map-illustration-by-panda20230902)
-  - [Case 4: Chinese Minimalist S-Shaped Poster (by @liyue_ai)](#case-4-chinese-minimalist-s-shaped-poster-by-liyue_ai)
-  - [Case 5: 2026 Spring Guangzhou City Poster (by @liyue_ai)](#case-5-2026-spring-guangzhou-city-poster-by-liyue_ai)
-  - [Case 7: Doodle Sketch AI Builder (by @blanplan)](#case-7-doodle-sketch-ai-builder-by-blanplan)
-  - [Case 8: Futuristic Mandala Illustration (by @4WEB1)](#case-8-futuristic-mandala-illustration-by-4web1)
-  - [Case 9: Super Famicom Poster Style (by @lilimliliychan)](#case-9-super-famicom-poster-style-by-lilimliliychan)
-  - [Case 22: Chengdu Food Map Illustration (by @Panda20230902)](#case-22-chengdu-food-map-illustration-by-panda20230902)
   - [Case 24: Spring Guangzhou City Poster (by @alanlovelq)](#case-24-spring-guangzhou-city-poster-by-alanlovelq)
   - [Case 26: Qiongqi Eastern Aesthetics Poster (by @liyue_ai)](#case-26-qiongqi-eastern-aesthetics-poster-by-liyue_ai)
   - [Case 27: Guangzhou Paper-Cut City Poster (by @liyue_ai)](#case-27-guangzhou-paper-cut-city-poster-by-liyue_ai)
@@ -130,14 +99,33 @@ Si cela vous est utile, pensez a mettre une etoile. ⭐
   - [Case 34: Character Relationship Map Poster (by @MrLarus)](#case-34-character-relationship-map-poster-by-mrlarus)
   - [Case 35: New Chinese Ink Landscape Poster (by @liyue_ai)](#case-35-new-chinese-ink-landscape-poster-by-liyue_ai)
   - [Case 36: AI Builder Doodle Sketch (by @opc_8838)](#case-36-ai-builder-doodle-sketch-by-opc_8838)
-  - [Case 37: Fictional Service Ad Creative Set (by @Yuupapa_free)](#case-37-fictional-service-ad-creative-set-by-yuupapa_free)
   - [Case 38: Character Visual Vertical Poster (by @tebasaki3D)](#case-38-character-visual-vertical-poster-by-tebasaki3d)
+  - [Case 39: Science Encyclopedia Infographic (by @MrLarus)](#case-39-science-encyclopedia-infographic-by-mrlarus)
+  - [Case 40: Fictional Anime Movie Poster (by @seiiiiiiiiiiru)](#case-40-fictional-anime-movie-poster-by-seiiiiiiiiiiru)
+  - [Case 41: Product Ad Redesign (by @genel_ai)](#case-41-product-ad-redesign-by-genel_ai)
+  - [Case 42: Dark-Fantasy Guangzhou City Poster (by @liyue_ai)](#case-42-dark-fantasy-guangzhou-city-poster-by-liyue_ai)
+  - [Case 43: Backpropagation Diagram Poster (by @itnavi2022)](#case-43-backpropagation-diagram-poster-by-itnavi2022)
+  - [Case 44: Barreleye Fish Anatomy Encyclopedia (by @itnavi2022)](#case-44-barreleye-fish-anatomy-encyclopedia-by-itnavi2022)
+  - [Case 45: Science Fiction Movie Poster (by @underwoodxie96)](#case-45-science-fiction-movie-poster-by-underwoodxie96)
+  - [Case 46: Refreshing Summer Udon Ad (by @genel_ai)](#case-46-refreshing-summer-udon-ad-by-genel_ai)
+  - [Case 47: Handwritten Medical Prescription Sheet (by @MrLarus)](#case-47-handwritten-medical-prescription-sheet-by-mrlarus)
+  - [Case 48: Silicon Valley 2026 Promo Poster (by @carsonyungos)](#case-48-silicon-valley-2026-promo-poster-by-carsonyungos)
+  - [Case 49: Japanese Supermarket Sale Flyer (by @weel_corp)](#case-49-japanese-supermarket-sale-flyer-by-weel_corp)
+  - [Case 50: Dark Epic Concept Poster (by @A9Quant)](#case-50-dark-epic-concept-poster-by-a9quant)
+  - [Case 51: Pilates Studio Ad Poster (by @ck_igarashi)](#case-51-pilates-studio-ad-poster-by-ck_igarashi)
+  - [Case 52: Ultra-Dense Information Design (by @EchoraContinuum)](#case-52-ultra-dense-information-design-by-echoracontinuum)
+  - [Case 53: Cute Chinese Expeditionary Force Storyboard (by @RainHuangapp)](#case-53-cute-chinese-expeditionary-force-storyboard-by-rainhuangapp)
+  - [Case 54: Theme Science Encyclopedia Card (by @alanlovelq)](#case-54-theme-science-encyclopedia-card-by-alanlovelq)
+  - [Case 55: Chili Pork Cooking Flowchart (by @Kurt_Rousey466)](#case-55-chili-pork-cooking-flowchart-by-kurt_rousey466)
+  - [Case 56: Cinematic Infographic Concept Poster (by @A9Quant)](#case-56-cinematic-infographic-concept-poster-by-a9quant)
 - [Cas de Design de Personnage](#cas-de-design-de-personnage)
   - [Case 1: Anime Snapshot Conversion (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
   - [Case 2: Persona5 Character Reference Card (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
   - [Case 3: Gal Game Character Introduction Page (by @09lyco)](#case-3-gal-game-character-introduction-page-by-09lyco)
-
   - [Case 5: Official Character Sheet (JP) (by @Toshi_nyaruo_AI)](#case-5-official-character-sheet-jp-by-toshi_nyaruo_ai)
+  - [Case 7: Mecha Girl Sea-City Key Visual (by @old_pgmrs_will)](#case-7-mecha-girl-sea-city-key-visual-by-old_pgmrs_will)
+  - [Case 8: Saint Seiya Gold Saints Card Grid (by @songguoxiansen)](#case-8-saint-seiya-gold-saints-card-grid-by-songguoxiansen)
+  - [Case 9: Chaos Notes Hidden Face Character Art (by @loglogrog)](#case-9-chaos-notes-hidden-face-character-art-by-loglogrog)
 - [Cas de Maquettes UI et Reseaux Sociaux](#cas-de-maquettes-ui-et-reseaux-sociaux)
   - [Case 1: One-Prompt UI Design Generation (by @austinit)](#case-1-one-prompt-ui-design-generation-by-austinit)
   - [Case 2: Amateur iPhone Keynote Snapshot (by @patrickassale)](#case-2-amateur-iphone-keynote-snapshot-by-patrickassale)
@@ -146,8 +134,23 @@ Si cela vous est utile, pensez a mettre une etoile. ⭐
   - [Case 5: Multi-Platform Content Screenshots (by @MrLarus)](#case-5-multi-platform-content-screenshots-by-mrlarus)
   - [Case 7: Liu Yifei Douyin Livestream Screenshot (by @alanblogsooo)](#case-7-liu-yifei-douyin-livestream-screenshot-by-alanblogsooo)
   - [Case 8: King Taejo Yi Seong-gye's X Page (by @SKA_Neotype)](#case-8-king-taejo-yi-seong-gyes-x-page-by-ska_neotype)
+  - [Case 9: Style-to-UI Design System (by @stark_nico99)](#case-9-style-to-ui-design-system-by-stark_nico99)
+  - [Case 10: Momotaro Explainer Slide (by @yammamon)](#case-10-momotaro-explainer-slide-by-yammamon)
   - [Case 25: Museum-Style Hanfu Breakdown Infographic (by @MrLarus)](#case-25-museum-style-hanfu-breakdown-infographic-by-mrlarus)
   - [Case 26: Glassy UI Design System (by @pfanis)](#case-26-glassy-ui-design-system-by-pfanis)
+  - [Case 27: Japanese RPG Status Screen (by @Kashiko_AIart)](#case-27-japanese-rpg-status-screen-by-kashiko_aiart)
+  - [Case 28: Xuanwu Gate Social Feed (by @Tz_2022)](#case-28-xuanwu-gate-social-feed-by-tz_2022)
+  - [Case 29: City Travel Guide Infographic (by @MrLarus)](#case-29-city-travel-guide-infographic-by-mrlarus)
+  - [Case 30: 3D X Profile Mockup (by @GoSailGlobal)](#case-30-3d-x-profile-mockup-by-gosailglobal)
+  - [Case 31: Empress Dowager Cixi X Page (by @Cryptohaifeng_)](#case-31-empress-dowager-cixi-x-page-by-cryptohaifeng_)
+  - [Case 32: Palm Reading Diagnosis Report (by @agi_aibusi)](#case-32-palm-reading-diagnosis-report-by-agi_aibusi)
+  - [Case 33: Calligraphy Copybook Sheet (by @MrLarus)](#case-33-calligraphy-copybook-sheet-by-mrlarus)
+  - [Case 34: Don Quijote Promo Pop Poster (by @loglogrog)](#case-34-don-quijote-promo-pop-poster-by-loglogrog)
+  - [Case 35: Japanese Gacha Game Screen (by @the_wheel_2024)](#case-35-japanese-gacha-game-screen-by-the_wheel_2024)
+  - [Case 36: Elon Musk Douyin Livestream Screenshot (by @Shinning1010)](#case-36-elon-musk-douyin-livestream-screenshot-by-shinning1010)
+  - [Case 37: Liu Yifei Douyin Livestream Screenshot (by @kylegeeks)](#case-37-liu-yifei-douyin-livestream-screenshot-by-kylegeeks)
+  - [Case 38: Cyberpunk Neon UI Design System (by @AZLnfvp)](#case-38-cyberpunk-neon-ui-design-system-by-azlnfvp)
+  - [Case 39: Trump and Kim Livestream PK Screenshot (by @alanlovelq)](#case-39-trump-and-kim-livestream-pk-screenshot-by-alanlovelq)
 - [Comparaisons et Exemples de la Communaute](#comparaisons-et-exemples-de-la-communaute)
   - [Case 5: Wooden Bookshelf Prompt Test (by @chetaslua)](#case-5-wooden-bookshelf-prompt-test-by-chetaslua)
   - [Case 10: GPT-Image-2 Detail Showcase (by @liyue_ai)](#case-10-gpt-image-2-detail-showcase-by-liyue_ai)
@@ -156,7 +159,15 @@ Si cela vous est utile, pensez a mettre une etoile. ⭐
   - [Case 29: Lion Camel Ridge Dark Myth Scene (by @MANISH1027512)](#case-29-lion-camel-ridge-dark-myth-scene-by-manish1027512)
   - [Case 30: Counter-Strike x Terraria Screenshot Mashup (by @yssrski)](#case-30-counter-strike-x-terraria-screenshot-mashup-by-yssrski)
   - [Case 31: Pre-war Japan Lab Minecraft Screenshot (by @RitaStar1128)](#case-31-pre-war-japan-lab-minecraft-screenshot-by-ritastar1128)
-  - [Remerciements](#remerciements)
+  - [Case 32: Forged Masterpiece Prompt Test (by @MrLarus)](#case-32-forged-masterpiece-prompt-test-by-mrlarus)
+  - [Case 33: Multi-Concept Battle Poster Set (by @joshesye)](#case-33-multi-concept-battle-poster-set-by-joshesye)
+  - [Case 34: Rust In-Game Screenshot (by @FixlationAI)](#case-34-rust-in-game-screenshot-by-fixlationai)
+  - [Case 35: Sam Altman Bear Selfie (by @JustinGorya)](#case-35-sam-altman-bear-selfie-by-justingorya)
+  - [Case 36: Among Us Realistic Screenshot (by @ReYYYYoking)](#case-36-among-us-realistic-screenshot-by-reyyyyoking)
+  - [Case 37: Retro Programming Museum Cartoon (by @XiaohuiAI666)](#case-37-retro-programming-museum-cartoon-by-xiaohuiai666)
+  - [Case 38: 14th-Dimension Projection Scene (by @workingclassbud)](#case-38-14th-dimension-projection-scene-by-workingclassbud)
+  - [Case 39: Sam Altman Baseball Broadcast (by @16kthir0GRXgNqn)](#case-39-sam-altman-baseball-broadcast-by-16kthir0grxgnqn)
+- [Remerciements](#remerciements)
 
 ## Cas de Portrait et Photographie
 
@@ -227,7 +238,7 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 | Resultat |
 | :----: |
-| <img src="./images/comparison_case6/output.jpg" width="300" alt="Image du resultat"> |
+| <img src="./images/portrait_case6/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -265,7 +276,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 | Resultat |
 | :----: |
-| <img src="./images/comparison_case9/output.jpg" width="300" alt="Image du resultat"> |
+| <img src="./images/portrait_case9/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -289,6 +300,10 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 <!-- Case 11: Korean Idol 3x3 Grid Portrait (by @BubbleBrain) -->
 ### Case 11: [Korean Idol 3x3 Grid Portrait](https://x.com/BubbleBrain/status/2046268941941850575) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
+| Resultat |
+| :----: |
+| <img src="./images/portrait_case11/output.jpg" width="300" alt="Image du resultat"> |
+
 **Prompt：**
 
 ```
@@ -298,10 +313,92 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 <!-- Case 12: CCD Camera Flash Korean Idol (by @BubbleBrain) -->
 ### Case 12: [CCD Camera Flash Korean Idol](https://x.com/BubbleBrain/status/2046190539213885806) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
+| Resultat |
+| :----: |
+| <img src="./images/portrait_case12/output.jpg" width="300" alt="Image du resultat"> |
+
 **Prompt：**
 
 ```
 mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur, young Korean female idol, soft innocent look
+```
+
+<!-- Case 13: Korean Idol 3x3 Collage Portrait (by @BubbleBrain) -->
+### Case 13: [Korean Idol 3x3 Collage Portrait](https://x.com/BubbleBrain/status/2046151898621993364) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Resultat |
+| :----: |
+| <img src="./images/portrait_case13/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, proportions, hairstyle, and identity across all nine shots.   Natural, ultra-realistic skin texture, no retouching, no smoothing. Clean idol-style minimal makeup, soft glow, subtle imperfections.   Hair: long, voluminous dark hair, slightly tousled, consistent across all frames (natural loose flow, slight movement).  Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms (or simple neutral-toned outfit), youthful, clean, slightly casual but styled. Same outfit across all frames.  Setting: minimal studio or simple indoor environment (plain wall, soft window light, clean background). Focus on subject, not environment.  Lighting: soft diffused natural light, gentle highlights, low contrast, slightly airy tones, subtle film-like softness.  Camera style: intimate portrait photography, slightly handheld feel, subtle imperfections (minor grain, slight blur in motion frames, imperfect framing).  Frame breakdown (3x3 grid):  Top row: - Top left: standing naturally, looking slightly away, relaxed expression - Top center: facing camera, casual mid-motion (hair or body slight movement) - Top right: slight side angle, soft gaze, natural candid feel  Middle row: - Center left: looking slightly upward, soft thoughtful expression - Center: close-up portrait, direct eye contact, gentle idol smile - Center right: turning body slightly, mid-motion candid frame  Bottom row: - Bottom left: seated or leaning casually, relaxed posture - Bottom center: back partially turned, looking over shoulder toward camera - Bottom right: standing close to frame, slightly playful or soft expression  Mood: Korean idol photobook / photocard aesthetic, intimate, soft, natural, everyday charm.  Quality: ultra-realistic, 8K detail, subtle analog film grain, natural imperfections, soft dreamy tone
+```
+
+<!-- Case 14: Soft Black Mist Editorial Portrait (by @BubbleBrain) -->
+### Case 14: [Soft Black Mist Editorial Portrait](https://x.com/BubbleBrain/status/2046434670724907395) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Resultat |
+| :----: |
+| <img src="./images/portrait_case14/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+9:16 vertical — editorial portrait, single subject  soft black mist filter, subtle haze, gentle highlight bloom, muted tones  minimal indoor space, clean background, slight texture  young Korean woman, minimal makeup, natural skin texture  outfit: fitted ribbed knit top or soft camisole layered under a loose shirt, paired with high-waisted shorts or skirt; fabric slightly clings to body shape, soft and natural, no revealing elements  hair: slightly messy, natural volume  pose: sitting on floor with one leg bent and the other relaxed, body slightly leaning, shoulders not aligned, head tilted  composition: subject slightly off-center, negative space present  expression: calm, slightly distant, natural lips  lighting: soft side light, gentle shadow falloff  mood: understated, quiet, subtly sensual through natural body lines, relaxed and unposed  quality: fine grain, slight softness, realistic look
+```
+
+<!-- Case 15: Fujifilm Strawberry School Portrait (by @BubbleBrain) -->
+### Case 15: [Fujifilm Strawberry School Portrait](https://x.com/BubbleBrain/status/2046483268019884384) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Resultat |
+| :----: |
+| <img src="./images/portrait_case15/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+9:16 vertical — Japanese Fuji film style portrait, single subject  Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation, slight vignette  bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere  young Japanese female idol, natural minimal makeup, fresh glowing skin, realistic texture, slight imperfections  outfit: Japanese school uniform (sailor-style or blazer uniform), neatly styled, non-revealing, youthful and clean  hair: natural dark hair, straight or softly flowing, a few loose strands  pose: front-facing or slight angle toward camera, relaxed posture; one hand gently holding a strawberry near lips, mid-action as if about to take a bite; shoulders relaxed, subtle natural body curve  expression: soft playful gaze, light smile or neutral lips, gentle eye contact with camera  setting: minimal indoor near window or simple outdoor corner, clean background, everyday atmosphere  composition: slightly off-center framing, intimate distance, candid feel  mood: fresh, youthful, sweet everyday moment, understated charm  quality: ultra-realistic, analog film look, natural imperfections, soft dreamy finish
+```
+
+<!-- Case 16: Soft Black Mist Idol Portrait (by @BubbleBrain) -->
+### Case 16: [Soft Black Mist Idol Portrait](https://x.com/BubbleBrain/status/2046518189509734903) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Resultat |
+| :----: |
+| <img src="./images/portrait_case16/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+9:16 vertical — Korean idol portrait photography, single subject  soft black mist filter effect, lowered contrast, gentle highlight bloom, subtle glow, soft diffusion, slightly faded blacks  minimal indoor setting near window, white curtains, clean light-toned background  young Korean female idol, natural minimal makeup, dewy realistic skin texture, subtle imperfections  outfit: oversized white button-up shirt + short bottoms, slightly loose fit, soft and casual styling, no revealing elements  hair: long dark hair, slightly messy, natural volume, softly flowing  pose: relaxed standing or slight lean, body subtly angled, one leg slightly forward, shoulders relaxed; one hand lightly touching collar or resting near neckline, the other relaxed; gentle body curve without exaggeration  expression: soft cute smile, slightly playful eyes, direct or slightly off-camera gaze  camera: close to mid-body framing, eye-level, intimate distance, slight handheld feel  lighting: diffused natural daylight, soft shadows, gentle light wrapping around face and body  mood: cute yet subtly sensual, intimate, everyday softness, quiet romantic atmosphere  quality: ultra-realistic, fine film grain, slight softness at edges, natural imperfections, dreamy understated tone
+```
+
+<!-- Case 17: Fujifilm Couple Portrait (by @BubbleBrain) -->
+### Case 17: [Fujifilm Couple Portrait](https://x.com/BubbleBrain/status/2046502288102170757) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Resultat |
+| :----: |
+| <img src="./images/portrait_case17/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+9:16 vertical — Japanese Fuji film style couple portrait, two subjects  Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation  bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere  young Japanese couple, natural minimal makeup, realistic skin texture, slight imperfections  female outfit: oversized button-up shirt with loose shorts, relaxed fit, soft casual styling   male outfit: simple t-shirt or light shirt, clean and understated  hair: natural, slightly tousled for both  pose: close intimate distance — sitting or standing close together; the girl gently leaning toward him, one hand lightly resting on his shoulder or chest; the boy slightly leaning in, faces close, almost touching, capturing the moment just before a kiss  expression: soft smiles or gentle gaze toward each other, relaxed and natural, emotional connection visible  camera: close framing (waist-up), eye-level, intimate distance, slight handheld feel  setting: minimal indoor near window, light curtains, clean soft background  lighting: diffused daylight, gentle highlight bloom, soft shadow transitions  mood: warm, romantic, intimate everyday moment, natural affection  quality: ultra-realistic, analog film look, fine grain, slight softness, natural imperfections
+```
+
+<!-- Case 18: AI Self-Perception Portrait (by @80vul) -->
+### Case 18: [AI Self-Perception Portrait](https://x.com/80vul/status/2046218165961753047) (by [@80vul](https://x.com/80vul))
+
+| Resultat |
+| :----: |
+| <img src="./images/portrait_case18/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+根据你对我的认知 给我生成一个“你认识的我”的 图片
 ```
 
 ## Cas d Affiches et d Illustration
@@ -423,7 +520,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultat |
 | :----: |
-| Output preview unavailable |
+| <img src="./images/poster_case10/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -439,7 +536,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultat |
 | :----: |
-| <img src="./images/comparison_case11/output.jpg" width="300" alt="Image du resultat"> |
+| <img src="./images/poster_case11/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -452,7 +549,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultat |
 | :----: |
-| <img src="./images/comparison_case12/output.jpg" width="300" alt="Image du resultat"> |
+| <img src="./images/poster_case12/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -465,7 +562,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultat |
 | :----: |
-| <img src="./images/comparison_case13/output.jpg" width="300" alt="Image du resultat"> |
+| <img src="./images/poster_case13/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -478,7 +575,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultat |
 | :----: |
-| Output preview unavailable |
+| <img src="./images/poster_case14/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -491,7 +588,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultat |
 | :----: |
-| <img src="./images/comparison_case15/output.jpg" width="300" alt="Image du resultat"> |
+| <img src="./images/poster_case15/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -499,38 +596,12 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 收藏版史诗海报，人物侧脸剪影中生长出完整世界观与经典场景。整体偏电影海报加梦幻水彩插画风，安静、宏大、神圣、怀旧，带纸张颗粒、轻雾感、飞白刷痕与高级留白。
 ```
 
-<!-- Case 16: Summer Citrus Soda Ad Photo (by @old_pgmrs_will) -->
-### Case 16: [Summer Citrus Soda Ad Photo](https://x.com/old_pgmrs_will/status/2045852114673635507) (by [@old_pgmrs_will](https://x.com/old_pgmrs_will))
-
-| Resultat |
-| :----: |
-| <img src="./images/comparison_case16/output.jpg" width="300" alt="Image du resultat"> |
-
-**Prompt：**
-
-```
-画像生成: 商品広告写真, 夏にぴったりの季節商品, 炭酸飲料, 名称="夏柑SODA", 形状=ペットボトル500ml, 2025年に飲料広告として高CTAだったデザインをリサーチしてから画像仕様をデザインして生成, アスペクト比=3:4
-```
-
-<!-- Case 22: Chengdu Food Map Illustration (by @Panda20230902) -->
-### Case 22: [Chengdu Food Map Illustration](https://x.com/Panda20230902/status/2045396918965285111) (by [@Panda20230902](https://x.com/Panda20230902))
-
-| Resultat |
-| :----: |
-| <img src="./images/comparison_case22/output.jpg" width="300" alt="Image du resultat"> |
-
-**Prompt：**
-
-```
-一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（辣椒红、姜黄、翠绿）为主，图片比例 1:1。
-```
-
 <!-- Case 24: Spring Guangzhou City Poster (by @alanlovelq) -->
 ### Case 24: [Spring Guangzhou City Poster](https://x.com/alanlovelq/status/2045484598487060917) (by [@alanlovelq](https://x.com/alanlovelq))
 
 | Resultat |
 | :----: |
-| <img src="./images/comparison_case24/output.jpg" width="300" alt="Image du resultat"> |
+| <img src="./images/poster_case24/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -549,7 +620,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultat |
 | :----: |
-| <img src="./images/comparison_case26/output.jpg" width="300" alt="Image du resultat"> |
+| <img src="./images/poster_case26/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -566,7 +637,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultat |
 | :----: |
-| <img src="./images/comparison_case27/output.jpg" width="300" alt="Image du resultat"> |
+| <img src="./images/poster_case27/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -583,7 +654,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultat |
 | :----: |
-| <img src="./images/comparison_case28/output.jpg" width="300" alt="Image du resultat"> |
+| <img src="./images/poster_case28/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -596,7 +667,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultat |
 | :----: |
-| <img src="./images/comparison_case31/output.jpg" width="300" alt="Image du resultat"> |
+| <img src="./images/poster_case31/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -607,6 +678,10 @@ Ilustración en acuarela de estilo onírico de [sujeto], con estética impresion
 <!-- Case 32: Science Encyclopedia Vertical Poster (by @pfanis) -->
 ### Case 32: [Science Encyclopedia Vertical Poster](https://x.com/pfanis/status/2046413660147314714) (by [@pfanis](https://x.com/pfanis))
 
+| Resultat |
+| :----: |
+| <img src="./images/poster_case32/output.jpg" width="300" alt="Image du resultat"> |
+
 **Prompt：**
 
 ```
@@ -615,6 +690,10 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 <!-- Case 33: Journey to the West Chinese Comic (by @overseas58) -->
 ### Case 33: [Journey to the West Chinese Comic](https://x.com/overseas58/status/2046271877577097376) (by [@overseas58](https://x.com/overseas58))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case33/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -625,6 +704,10 @@ Generate a high-quality vertical science popularization encyclopedia image based
 <!-- Case 34: Character Relationship Map Poster (by @MrLarus) -->
 ### Case 34: [Character Relationship Map Poster](https://x.com/MrLarus/status/2046263153546174935) (by [@MrLarus](https://x.com/MrLarus))
 
+| Resultat |
+| :----: |
+| <img src="./images/poster_case34/output.jpg" width="300" alt="Image du resultat"> |
+
 **Prompt：**
 
 ```
@@ -633,6 +716,10 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 <!-- Case 35: New Chinese Ink Landscape Poster (by @liyue_ai) -->
 ### Case 35: [New Chinese Ink Landscape Poster](https://x.com/liyue_ai/status/2046215276249993720) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case35/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -643,28 +730,475 @@ Generate a high-quality vertical science popularization encyclopedia image based
 <!-- Case 36: AI Builder Doodle Sketch (by @opc_8838) -->
 ### Case 36: [AI Builder Doodle Sketch](https://x.com/opc_8838/status/2046162334440448339) (by [@opc_8838](https://x.com/opc_8838))
 
+| Resultat |
+| :----: |
+| <img src="./images/poster_case36/output.jpg" width="300" alt="Image du resultat"> |
+
 **Prompt：**
 
 ```
 以涂鸦速写风表现【一个厉害的AI builder】。
 ```
 
-<!-- Case 37: Fictional Service Ad Creative Set (by @Yuupapa_free) -->
-### Case 37: [Fictional Service Ad Creative Set](https://x.com/Yuupapa_free/status/2046388238982771123) (by [@Yuupapa_free](https://x.com/Yuupapa_free))
-
-**Prompt：**
-
-```
-在りそうでないサービスの広告を10サービス(1サービス1枚)作成して下さい
-```
-
 <!-- Case 38: Character Visual Vertical Poster (by @tebasaki3D) -->
 ### Case 38: [Character Visual Vertical Poster](https://x.com/tebasaki3D/status/2046371076402503709) (by [@tebasaki3D](https://x.com/tebasaki3D))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case38/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
 ```
 『神層37区 特級執行官 神巫サバト』この名称のキャラクターと世界観に合ったビジュアルイメージを、プロのデザイナーとして縦長のポスターイメージとして制作して
+```
+
+<!-- Case 39: Science Encyclopedia Infographic (by @MrLarus) -->
+### Case 39: [Science Encyclopedia Infographic](https://x.com/MrLarus/status/2046231542817497392) (by [@MrLarus](https://x.com/MrLarus))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case39/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+请根据【主题】生成一张高质量竖版「科普百科图」。 
+
+这张图不是普通海报,也不是单纯插画,而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。
+
+请让画面包含:
+- 一个清晰漂亮的主题主视觉
+- 若干局部特征放大细节
+- 多个圆角模块化信息分区
+- 清楚的标题层级与重点标签
+- 简洁但丰富的百科内容
+- 可视化评分、要点总结或Top 5模块
+
+内容栏目请根据主题自动适配,优先从这些方向中选择并合理组合:
+基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。
+
+视觉要求:
+浅色干净背景,柔和配色,轻阴影,精致小图标,圆角信息框,整洁排版,信息密度高但不拥挤,阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡,而不是广告图。
+
+请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。
+```
+
+<!-- Case 40: Fictional Anime Movie Poster (by @seiiiiiiiiiiru) -->
+### Case 40: [Fictional Anime Movie Poster](https://x.com/seiiiiiiiiiiru/status/2046509734954741780) (by [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case40/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+架空のアニメ映画のポスターをGPT image2で作成。
+```
+
+<!-- Case 41: Product Ad Redesign (by @genel_ai) -->
+### Case 41: [Product Ad Redesign](https://x.com/genel_ai/status/2046498264774791514) (by [@genel_ai](https://x.com/genel_ai))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case41/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+この商品広告をプロのデザイナー目線でリデザインして。
+今のトレンド、ターゲットに合わせた洗練されたデザインで。
+```
+
+<!-- Case 42: Dark-Fantasy Guangzhou City Poster (by @liyue_ai) -->
+### Case 42: [Dark-Fantasy Guangzhou City Poster](https://x.com/liyue_ai/status/2046243132774494607) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case42/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+平面插画,东方幻想风格高端城市海报设计,竖版9:16构图,整体采用对角线+S型流动构图,从左下向右上延展,画面以深邃黑色为背景,自上而下渐变至浓烈暗红色,形成强烈冷暖对比与空间纵深,背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿,自底部向上延伸,具有流体质感、粒子光效与渐变高光,局部带细微能量碎屑与体积光。
+
+金色流光中逐层浮现广州城市地标建筑群:广州塔为视觉核心,比例突出,周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素,建筑采用“精细线描 + 金色发光体块”表现,轮廓清晰、细节丰富,在金色光晕映衬下仿佛悬浮于虚空,形成超现实空间层次,远景轻微雾化增强纵深感。
+
+画面底部为一位东方白发女性形象,长发飘逸,如烟似雾,与金色流光自然衔接并逐渐融合,发丝半透明带渐变光感,姿态柔美,双目微闭,神情宁静,怀抱一束多彩鲜花,花间点缀微光粒子与星点效果,象征人与城市能量的精神连接,人物细节适度简化以突出整体设计感。
+
+光影集中于金色流线、建筑与人物轮廓,形成强烈明暗对比与视觉聚焦,整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底,高亮鎏金为主视觉强调,金色具备丰富明暗层次,辅以小面积高饱和花束色彩点缀,整体高级克制。
+
+页面文字与画面融合排版:顶部居中宋体大字“广州·中国”,下方小字“2026/04/20”,再下方小字“LIYUE”,文字采用淡金色或柔和暖白色,与整体光影统一。高品质细节,电影级光影表现,体积光与粒子细节丰富,画面干净无噪点,超高清8K分辨率,商业级海报质感。
+```
+
+<!-- Case 43: Backpropagation Diagram Poster (by @itnavi2022) -->
+### Case 43: [Backpropagation Diagram Poster](https://x.com/itnavi2022/status/2046494262158930154) (by [@itnavi2022](https://x.com/itnavi2022))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case43/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+バックプロパゲーションについて詳しく図解して
+```
+
+<!-- Case 44: Barreleye Fish Anatomy Encyclopedia (by @itnavi2022) -->
+### Case 44: [Barreleye Fish Anatomy Encyclopedia](https://x.com/itnavi2022/status/2046500429786402973) (by [@itnavi2022](https://x.com/itnavi2022))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case44/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+デメニギスの体の構造を解説するカラー図鑑のページ
+```
+
+<!-- Case 45: Science Fiction Movie Poster (by @underwoodxie96) -->
+### Case 45: [Science Fiction Movie Poster](https://x.com/underwoodxie96/status/2046514205529088501) (by [@underwoodxie96](https://x.com/underwoodxie96))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case45/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+Create a Science fiction movie poster
+```
+
+<!-- Case 46: Refreshing Summer Udon Ad (by @genel_ai) -->
+### Case 46: [Refreshing Summer Udon Ad](https://x.com/genel_ai/status/2046501692246470871) (by [@genel_ai](https://x.com/genel_ai))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case46/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+少し暑くなってきた今の時期に、さわやかにさっぱりしたい、みずみずしさ、みたいなところをもっと強く感じたい。冷たいうどんやナス、つゆを口に含んだ時の爽快感、みたいなものをもっと感じるように
+```
+
+<!-- Case 47: Handwritten Medical Prescription Sheet (by @MrLarus) -->
+### Case 47: [Handwritten Medical Prescription Sheet](https://x.com/MrLarus/status/2046514998965371144) (by [@MrLarus](https://x.com/MrLarus))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case47/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+生成一张手写中/西医药方图
+```
+
+<!-- Case 48: Silicon Valley 2026 Promo Poster (by @carsonyungos) -->
+### Case 48: [Silicon Valley 2026 Promo Poster](https://x.com/carsonyungos/status/2046523198116889064) (by [@carsonyungos](https://x.com/carsonyungos))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case48/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+A refined 2026 Silicon Valley city promotional poster with a futuristic yet elegant atmosphere.
+
+Double exposure composition, preserving an S-shaped sense of flowing movement. On a pure white textured background, in the lower-right corner, a miniature figure dressed in sleek modern techwear is releasing a long ribbon of luminous silver-blue light. The ribbon flows gracefully through the air, showing a soft silk-like texture, and as it drifts toward the upper-left, it magically transforms into a grand landscape of rolling hills, coastline, data streams, and illuminated urban terrain.
+
+Within this flowing “river of light,” overlay a hand-drawn panoramic map of Silicon Valley, blending technology, nature, innovation, and California sunlight. The scene feels visionary, expansive, sophisticated, and inspiring.
+
+Include iconic Silicon Valley and Bay Area elements: Stanford University arches, Apple Park, Google campus-inspired buildings, Meta-like glass offices, Tesla-style innovation imagery, venture capital offices on Sand Hill Road, Palo Alto tree-lined streets, San Jose skyline, the Santa Cruz Mountains, San Francisco Bay, highways, autonomous vehicles, startup labs, semiconductor patterns, AI data centers, and subtle circuit-board textures.
+
+Surrounded by soft mist, golden California light, floating clouds, and delicate digital particles. Rich colors, complex structure, highly detailed, grand and breathtaking, yet still fresh and minimal because of the large areas of white space.
+
+In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” with a vertical promotional slogan: “Where Ideas Shape Tomorrow.” Beautiful editorial layout, graceful spacing, clear and complete lettering, premium city branding poster, cinematic lighting, sophisticated details, 9:16 aspect ratio.
+```
+
+<!-- Case 49: Japanese Supermarket Sale Flyer (by @weel_corp) -->
+### Case 49: [Japanese Supermarket Sale Flyer](https://x.com/weel_corp/status/2046514558064586782) (by [@weel_corp](https://x.com/weel_corp))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case49/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+『賑やかで魅力的なスーパーマーケットの折り込みチラシの画像。上部には「特売」の大きな文字と今週の日付。カラフルな商品写真(野菜・果物・牛肉・鮮魚)、赤枠の価格タグ、「超目玉商品」「家計応援」のキャッチ...』
+```
+
+<!-- Case 50: Dark Epic Concept Poster (by @A9Quant) -->
+### Case 50: [Dark Epic Concept Poster](https://x.com/A9Quant/status/2046224777208361126) (by [@A9Quant](https://x.com/A9Quant))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case50/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+围绕【主题】自动生成一张顶级暗黑史诗概念海报 / 电影感信息图海报。
+
+唯一需要输入的变量只有:
+【主题】:___特朗普的思考____ 
+
+除【主题】之外,其余全部由 AI 自动适配完成,包括但不限于:
+- 核心主体(自动判断更适合人物、守护者、战士、产品、器物、雕像、抽象象征或其他主视觉对象)
+- 中央承载结构(自动判断更适合王座、石座、祭坛、机械基座、遗迹、高台或其他支撑体)
+- 环境空间(自动判断更适合洞穴、神殿、废墟、深渊、地下宫殿、密室或其他封闭史诗空间)
+- 上方开口与光源形式(自动判断更适合月光、神光、能量束、审判之光、圣光或其他单一强光)
+- 象征元素(自动判断更适合骷髅、徽记、残碑、纹章、符文、能量环、神性符号等)
+- 色彩体系
+- 材质组合
+- 标题、副标题、辅助文案
+- 排版与整体叙事气质
+
+【总风格】
+高预算 90 年代好莱坞史诗大片海报气质,融合 cinematic matte painting、超写实摄影质感、极强明暗对比、厚重空间叙事、暗黑英雄主义与仪式感构图。整体必须像一张真正的电影主海报,而不是普通插画或电商图。
+
+【核心结构锁定】
+整张海报必须保留以下结构基因:
+1. 一个巨大、压迫感极强的黑暗封闭空间
+2. 一束从上方斜向切入的强烈体积光,作为画面的第一视觉秩序
+3. 中央偏右或光束终点位置的核心主体与承载结构
+4. 左下角作为高密度标题与信息锚点
+5. 四周保留大量纯黑或近黑负空间,形成电影感呼吸区
+
+【自动适配规则】
+AI 必须依据【主题】自动推导最适合的视觉系统:
+- 如果【主题】偏暗黑英雄、复仇、正义、孤独、宿命,则自动偏向石质王座、孤高人物、冷色神光、废墟或洞穴感空间
+- 如果【主题】偏神秘、幽灵、潜行、幻影、夜行,则自动偏向月光、迷雾、冷蓝色体积光、深渊式黑暗空间
+- 如果【主题】偏权力、统治、王者、秩序,则自动强化 throne / altar / crown-like symbol / ritual space 的表达
+- 如果【主题】偏科技、AI、未来、机械,则自动将王座和空间替换为机械神座、能量基座、金属洞窟、工业神殿等未来化形态
+- 如果【主题】偏产品、品牌、器物,则自动把核心主体替换为最合适的 hero object,并保留被神光审判式凸显的史诗构图
+
+【画布与色彩系统】
+- 背景底层必须是极深、近乎吞噬一切的黑暗空间
+- 主环境色由 AI 根据【主题】自动决定,但整体必须克制,以暗色为主
+- 强光区域色彩必须高度集中,只服务于体积光与主体高光
+- 主题色 / 强调色只能集中用于主视觉核心,不允许全画面泛滥
+- 必须建立明确的“黑暗底色 + 单一主光 + 少量主题强调色”的层级秩序
+
+【构图与视觉重力】
+- 采用强烈的斜向张力与向中心汇聚的视觉引导
+- 视觉重力从上方光源强势落下,最终压在核心主体之上
+- 主体必须处于被命运、审判、神性或权力照中的位置
+- 边缘必须自然融入黑暗,不能出现无意义背景填充
+- 所有元素必须服务于唯一的主叙事核心
+
+【材质与光影】
+- 不使用轮廓线,不使用平面化描边
+- 完全依赖体积光、阴影切割、反射、高光、雾气、粉尘、湿润岩石或其他真实材质来建构画面
+- 材质必须形成明显对比,例如:
+  粗粝岩石 / 冷硬金属 / 柔韧织物 / 古老石雕 / 湿润表面 / 尘雾光柱
+- 光束必须具有强烈 Tyndall effect,真实、厚重、可感知体积密度
+
+【排版系统】
+- 整体 80% 视觉,20% 文字
+- AI 根据【主题】自动生成主标题、副标题和底部信息块
+- 主标题应尽量简洁、有气势、有电影海报感
+- 若主题更适合中文,则优先中文;若更适合英文,则自动英文;也可双语,但必须统一
+- 主标题可沿光束垂直排布,仿佛由光本身构成
+- 左下角设置一个高密度信息模块,包括副标题、小字信息、电影 credits 风格占位文字或品牌说明
+- 文字必须锐利、干净、真实嵌入环境,不得廉价漂浮
+
+【模块结构 —— 必须严格保持 3 块】
+[MOD 1: TOP-TO-CENTER BEAM]
+从顶部开口斜向切下的巨大体积光柱,作为第一视觉通道,并承载主标题或主视觉文字。
+
+[MOD 2: CENTER-RIGHT CORE]
+位于光束终点的核心主体与承载结构,形成整张海报的权力中心 / 命运中心 / 叙事中心。
+
+[MOD 3: BOTTOM-LEFT TEXT]
+位于左下角负空间中的高密度排版区,包含副标题、说明文字、credits 风格信息块、品牌信息或活动信息。
+
+【作者署名】
+在底部角落自然加入作者署名:
+@a9quant
+署名要小而清晰,精致、克制、高级,不喧宾夺主,像正式电影概念海报或艺术作品落款。
+
+【输出要求】
+输出为单张统一构图海报。
+所有视觉系统必须内部一致,不能有风格污染。
+画面必须具备:暗黑感、史诗感、压迫感、仪式感、命运感、电影完成度。
+最大细节密度,超清,电影级,印刷级,高端成片质感。
+```
+
+<!-- Case 51: Pilates Studio Ad Poster (by @ck_igarashi) -->
+### Case 51: [Pilates Studio Ad Poster](https://x.com/ck_igarashi/status/2046528889124728993) (by [@ck_igarashi](https://x.com/ck_igarashi))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case51/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+ピラティス教室の広告画像を作成したい テキストはよりユーザーが登録をするのに惹かれるような文言にし、画像内には女性がピラティスを実際に行っている様子を映して
+```
+
+<!-- Case 52: Ultra-Dense Information Design (by @EchoraContinuum) -->
+### Case 52: [Ultra-Dense Information Design](https://x.com/EchoraContinuum/status/2046517163826246133) (by [@EchoraContinuum](https://x.com/EchoraContinuum))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case52/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+Generate somthing super complex and info dense...
+```
+
+<!-- Case 53: Cute Chinese Expeditionary Force Storyboard (by @RainHuangapp) -->
+### Case 53: [Cute Chinese Expeditionary Force Storyboard](https://x.com/RainHuangapp/status/2046507931907080330) (by [@RainHuangapp](https://x.com/RainHuangapp))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case53/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+用可爱的风格讲述中国远征军的历史故事
+用波普风格讲述金刚经
+```
+
+<!-- Case 54: Theme Science Encyclopedia Card (by @alanlovelq) -->
+### Case 54: [Theme Science Encyclopedia Card](https://x.com/alanlovelq/status/2046378199681257920) (by [@alanlovelq](https://x.com/alanlovelq))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case54/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+请根据【主题】生成一张高质量竖版「科普百科图」。 
+
+这张图不是普通海报,也不是单纯插画,而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。
+
+请让画面包含:
+- 一个清晰漂亮的主题主视觉
+- 若干局部特征放大细节
+- 多个圆角模块化信息分区
+- 清楚的标题层级与重点标签
+- 简洁但丰富的百科内容
+- 可视化评分、要点总结或Top 5模块
+
+内容栏目请根据主题自动适配,优先从这些方向中选择并合理组合:
+基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。
+
+视觉要求:
+浅色干净背景,柔和配色,轻阴影,精致小图标,圆角信息框,整洁排版,信息密度高但不拥挤,阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡,而不是广告图。
+
+请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。
+```
+
+<!-- Case 55: Chili Pork Cooking Flowchart (by @Kurt_Rousey466) -->
+### Case 55: [Chili Pork Cooking Flowchart](https://x.com/Kurt_Rousey466/status/2046267707881029934) (by [@Kurt_Rousey466](https://x.com/Kurt_Rousey466))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case55/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+帮我制作辣椒炒肉这道菜的详细制作流程图,真实风格,适用于小红书图文比例
+```
+
+<!-- Case 56: Cinematic Infographic Concept Poster (by @A9Quant) -->
+### Case 56: [Cinematic Infographic Concept Poster](https://x.com/A9Quant/status/2046228485841334559) (by [@A9Quant](https://x.com/A9Quant))
+
+| Resultat |
+| :----: |
+| <img src="./images/poster_case56/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+请围绕【主题】自动生成一张顶级概念海报 / 信息图式电影海报。
+
+唯一输入变量只有:
+【主题】:__中国历史上的皇帝排名_         
+
+要求 AI 根据这个主题,自动推导并统一设计以下全部视觉系统,不需要我额外指定:
+- 核心主体(可以自动判断更适合人物、产品、建筑、器物、符号、场景或抽象意象)
+- 底部支撑结构
+- 上方悬浮符号或精神象征
+- 场景包裹元素
+- 隐喻系统
+- 色彩层级
+- 材质对比
+- 光影逻辑
+- 标题、副标题、辅助文案
+- 品牌感与高级感表达方式
+
+最终画面必须是:
+一张震撼、精密、统一、电影级、超高细节、可用于高端印刷的概念主视觉海报。
+
+【总风格】
+超写实 3D 商业 CGI 渲染,融合电影级布光、奢侈品视觉语言、未来感概念设计与史诗级构图。画面必须具有“唯一主视觉核心”,不能杂乱,不能像拼贴,不能像普通电商海报。
+
+【自动推导规则】
+AI 必须依据【主题】自动决定最合适的:
+1. 核心视觉隐喻
+2. 主体类型与姿态
+3. 支撑结构形式
+4. 悬浮元素形式
+5. 场景外壳与空间氛围
+6. 主色、辅色、强调色
+7. 材质组合
+8. 文字气质与版式风格
+
+例如:
+- 如果主题偏权力、秩序、资本、统治,则自动偏向王座、冠冕、机械、神殿、红幕、金属、权力结构
+- 如果主题偏科技、AI、芯片、未来,则自动偏向机械结构、能量核心、光束、深色金属、全息感
+- 如果主题偏奢侈品、高定、稀缺、收藏,则自动偏向珠宝、镜面材质、黑金体系、展台、博物馆式布光
+- 如果主题偏人物、IP、角色,则自动以人物为主视觉核心,并自动匹配对应世界观与象征系统
+- 如果主题偏城市、文明、史诗、命运,则自动转化为宏大叙事型空间结构与仪式感场景
+
+【构图规则】
+- 绝对高级感
+- 强烈中心秩序,整体统一
+- 允许中轴对称或接近中轴的史诗级构图
+- 视觉重力明确,从上到下形成清晰的层级落点
+- 边缘负空间干净、克制、有呼吸感
+- 不允许无意义装饰,不允许风格污染,不允许多个系统互相打架
+
+【视觉质量】
+- 超高细节
+- 体积光清晰
+- 材质真实
+- 反射、折射、阴影、雾气、景深自然
+- 每个元素都像经过工业级视觉总监审美控制
+- 整体达到高端品牌 campaign key visual / luxury invitation poster / conceptual editorial poster 水准
+
+【排版系统】
+- 整体为 90% 视觉,10% 文字
+- AI 根据【主题】自动生成最匹配的主标题和副标题
+- 标题必须简洁、锋利、有气势
+- 文案分布在安全负空间内,不压主体
+- 若主题适合中文,则优先生成中文标题;若主题更适合英文,则自动生成英文标题;也可中英结合,但必须统一高级
+- 文字必须尽量少而准,不要堆字
+
+【署名要求】
+在画面底部角落自然加入作者署名:
+@a9quant
+署名要小,但清晰、精致、高级,不喧宾夺主,像顶级视觉作品中的正式作者落款。
+
+【输出要求】
+输出为单张统一构图海报。
+自动根据【主题】完成全部视觉决策。
+画面必须具备史诗感、秩序感、控制力、仪式感、商业完成度。
+最大细节密度,超清,电影级,印刷级,高端成片质感。
 ```
 
 ## Cas de Design de Personnage
@@ -739,6 +1273,79 @@ Show me the attached image as a snapshot from an actual anime
 ・アスペクト比16：9
 
 高解像度、プロのコンセプトアートスタイル
+```
+
+<!-- Case 7: Mecha Girl Sea-City Key Visual (by @old_pgmrs_will) -->
+### Case 7: [Mecha Girl Sea-City Key Visual](https://x.com/old_pgmrs_will/status/2046144801071079612) (by [@old_pgmrs_will](https://x.com/old_pgmrs_will))
+
+| Resultat |
+| :----: |
+| <img src="./images/character_case7/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber eyes with glowing HUD reticles, waist-length ash-white hair tied in a high ponytail whipping in the sea wind, matte gunmetal exoskeleton armor plating her shoulders, forearms and shins, exposed hydraulic pistons at the joints, chest rig with glowing cyan coolant lines, oversized oil-stained hangar jacket half slipping off one shoulder, a massive rail cannon resting on her right shoulder, dog tags and frayed red ribbon at her collar , standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water, weight shifted onto one leg, left hand gripping the cannon strap, head turned slightly toward camera with a quiet defiant stare, steam venting from her back thrusters, her ponytail and jacket streaming sideways in the salt wind , a vast derelict sea-city at dusk, colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes, bone-white monolithic towers fused with barnacled steel, cyclopean ring-shaped constructs canted at broken angles, rusted skeletal gantries threaded with dead cables, dark swells rolling between the pylons, shipwrecks half-swallowed at their feet, thick sea fog clinging to the bases while the upper structures pierce into a bruised sky, scattered faint lights blinking high in the towers like distant eyes , moody low-key lighting, cold teal ambient from the overcast sky, warm amber sodium glow leaking from a distant structure camera-right, hard backlight from a low sun behind the towers carving her silhouette, volumetric god rays cutting through sea mist, wet specular highlights on her armor , 35mm anamorphic lens, slight low angle looking up past her shoulder toward the structures, medium-wide shot, shallow depth of field with foreground rust in soft focus, horizontal lens flares, fine atmospheric haze compressing the distant megastructures into layered silhouettes , cinematic anime key visual, painterly digital illustration with crisp line art, desaturated oceanic palette of teal, bone-white and rust punched by small warm accent lights, film grain, high-contrast editorial poster aesthetic . Format 16:9.
+```
+
+<!-- Case 8: Saint Seiya Gold Saints Card Grid (by @songguoxiansen) -->
+### Case 8: [Saint Seiya Gold Saints Card Grid](https://x.com/songguoxiansen/status/2046476566537080849) (by [@songguoxiansen](https://x.com/songguoxiansen))
+
+| Resultat |
+| :----: |
+| <img src="./images/character_case8/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片,每张卡牌上写上对应的中文名,每行4个,宽高比16:9。
+```
+
+<!-- Case 9: Chaos Notes Hidden Face Character Art (by @loglogrog) -->
+### Case 9: [Chaos Notes Hidden Face Character Art](https://x.com/loglogrog/status/2046448773162033240) (by [@loglogrog](https://x.com/loglogrog))
+
+| Resultat |
+| :----: |
+| <img src="./images/character_case9/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+# 混沌としたメモ書き・記号の集合体からキャラクターの顔を浮かび上がらせるアート
+
+--- スタイル
+- 白い紙の上に黒インクで描かれた大量の手書きメモ、数式、記号、ランダムな線。
+- 紙いっぱいに散らばる書き殴り風のカオス。
+- 所々に赤インクの強調(ライン、塗り潰し、マーカー風の塊)。
+- アナログのノート落書きのような質感。
+
+--- 構図
+- ランダムなメモや記号が全体を覆い尽くす。
+- 黒インクの線や文字の密度が「キャラクターの顔」の位置に集中する。
+- 結果として、混沌の中から「与えられたキャラクターの顔のシルエット・表情」がうっすら浮かび上がる。
+- 顔は写実的ではなく、カオスの断片が集まって形を成す。
+
+--- 色彩
+- モノクロ(黒・白)を主体に構成。
+- 赤インクをアクセントとして散発的に配置。
+- 彩度は抑えめ、アナログの紙とインク感を重視。
+
+--- 表現要素
+- 読めるようで読めない文字列、日本語や英数字が混在。
+- 数式記号、矢印、点、斜線、クロス、ドリップ(インクの飛び散り)。
+- キャラクターの顔の目や髪の輪郭は、メモや記号の配置の「余白」や「濃淡」で浮かび上がる。
+
+--- 禁止事項
+- 顔を直接的に描き込む写実ポートレート。
+- デジタル処理的で整然とした幾何学模様。
+- カラフルな彩色や過飽和表現。
+- ロゴ、透かし、人工的なCG感。
+
+--- Definition of Done (DoD)
+- 全体は「混沌としたメモ・記号の集合体」として成立している。  
+- 与えられたキャラクターの顔が、混沌の濃淡・配置から自然に浮かび上がる。  
+- 色はモノクロ+赤アクセントのみ。  
+- 紙とインクの手描き的質感を保持している。
 ```
 
 ## Cas de Maquettes UI et Reseaux Sociaux
@@ -837,7 +1444,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Resultat |
 | :----: |
-| <img src="./images/comparison_case9/output.jpg" width="300" alt="Image du resultat"> |
+| <img src="./images/ui_case9/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -863,7 +1470,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Resultat |
 | :----: |
-| <img src="./images/comparison_case25/output.jpg" width="300" alt="Image du resultat"> |
+| <img src="./images/ui_case25/output.jpg" width="300" alt="Image du resultat"> |
 
 **Prompt：**
 
@@ -893,6 +1500,208 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 ```
 Generate for me a UI design system with a very cutting-edge, bold, and unique theme that includes glassy visuals and transparencies
+```
+
+<!-- Case 27: Japanese RPG Status Screen (by @Kashiko_AIart) -->
+### Case 27: [Japanese RPG Status Screen](https://x.com/Kashiko_AIart/status/2046154976159035613) (by [@Kashiko_AIart](https://x.com/Kashiko_AIart))
+
+| Resultat |
+| :----: |
+| <img src="./images/ui_case27/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。
+```
+
+<!-- Case 28: Xuanwu Gate Social Feed (by @Tz_2022) -->
+### Case 28: [Xuanwu Gate Social Feed](https://x.com/Tz_2022/status/2046523491940225366) (by [@Tz_2022](https://x.com/Tz_2022))
+
+| Resultat |
+| :----: |
+| <img src="./images/ui_case28/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+玄武门之变的朋友圈
+```
+
+<!-- Case 29: City Travel Guide Infographic (by @MrLarus) -->
+### Case 29: [City Travel Guide Infographic](https://x.com/MrLarus/status/2046523494003851300) (by [@MrLarus](https://x.com/MrLarus))
+
+| Resultat |
+| :----: |
+| <img src="./images/ui_case29/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+生成【城市】三天旅游攻略,就这么简单一句话
+```
+
+<!-- Case 30: 3D X Profile Mockup (by @GoSailGlobal) -->
+### Case 30: [3D X Profile Mockup](https://x.com/GoSailGlobal/status/2046491397424111659) (by [@GoSailGlobal](https://x.com/GoSailGlobal))
+
+| Resultat |
+| :----: |
+| <img src="./images/ui_case30/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+创作一幅超逼真的 3D 插画,描绘一个略微倾斜的 Twitter/X 个人资料页面,背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X 截图相似,包含真实的布局、认证徽章、粉丝统计、个人资料横幅和推文部分。
+
+个人资料详情:
+
+一位时尚的年轻男子,有着蓬松的亮黑色短发和白皙的皮肤,从个人资料页面的右侧撕开的纸片中跃然而出。他保留了原有的面部特征,只是将表情改为自然自信的微笑。他握着撕开的纸片边缘,纸屑四处飞溅,营造出强烈的 3D 突破效果。
+
+柔和的影棚灯光、电影级的阴影、景深、超高细节、清晰的焦点、逼真的皮肤、逼真的 UI 反射、优质的构图、4K 分辨率、逼真与微妙的皮克斯风格融合。
+
+重要提示:
+
+- 请勿更改头像
+
+- 保持 X UI 界面准确
+
+- 保留原有的面部特征
+
+- 角色为男性
+
+- 仅增强笑容
+
+- 确保所有中文文字清晰易读
+```
+
+<!-- Case 31: Empress Dowager Cixi X Page (by @Cryptohaifeng_) -->
+### Case 31: [Empress Dowager Cixi X Page](https://x.com/Cryptohaifeng_/status/2046165776055546341) (by [@Cryptohaifeng_](https://x.com/Cryptohaifeng_))
+
+| Resultat |
+| :----: |
+| <img src="./images/ui_case31/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+生成一张慈禧的X主页
+```
+
+<!-- Case 32: Palm Reading Diagnosis Report (by @agi_aibusi) -->
+### Case 32: [Palm Reading Diagnosis Report](https://x.com/agi_aibusi/status/2046530764871696750) (by [@agi_aibusi](https://x.com/agi_aibusi))
+
+| Resultat |
+| :----: |
+| <img src="./images/ui_case32/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+GPT-image-2でこの手相を診断して詳細な鑑定書を作って
+生命線・知能線・感情線・運命線・太陽線・財運線・結婚線を、線の形状・濃淡・枝分かれ・起点終点まで分析すること。
+助言を重点的に高品質な占い鑑定書にまとめること。
+```
+
+<!-- Case 33: Calligraphy Copybook Sheet (by @MrLarus) -->
+### Case 33: [Calligraphy Copybook Sheet](https://x.com/MrLarus/status/2046510310253539764) (by [@MrLarus](https://x.com/MrLarus))
+
+| Resultat |
+| :----: |
+| <img src="./images/ui_case33/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+生成一张【字体】书法临摹字帖
+```
+
+<!-- Case 34: Don Quijote Promo Pop Poster (by @loglogrog) -->
+### Case 34: [Don Quijote Promo Pop Poster](https://x.com/loglogrog/status/2046437230127034774) (by [@loglogrog](https://x.com/loglogrog))
+
+| Resultat |
+| :----: |
+| <img src="./images/ui_case34/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください
+```
+
+<!-- Case 35: Japanese Gacha Game Screen (by @the_wheel_2024) -->
+### Case 35: [Japanese Gacha Game Screen](https://x.com/the_wheel_2024/status/2046519658166317160) (by [@the_wheel_2024](https://x.com/the_wheel_2024))
+
+| Resultat |
+| :----: |
+| <img src="./images/ui_case35/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+日本のソシャゲのガチャ画面を生成して、
+```
+
+<!-- Case 36: Elon Musk Douyin Livestream Screenshot (by @Shinning1010) -->
+### Case 36: [Elon Musk Douyin Livestream Screenshot](https://x.com/Shinning1010/status/2046501587762188535) (by [@Shinning1010](https://x.com/Shinning1010))
+
+| Resultat |
+| :----: |
+| <img src="./images/ui_case36/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+A 9:16 vertical version, high-detail realistic style Chinese TikTok live screenshot, Elon Musk is talking to the mobile phone camera in the live broadcast room, excited, smiling, and the live atmosphere is warm and real. He held a white handwritten sign in one hand, which clearly said: "Thank you Shinning". There are obvious Chinese TikTok interface elements in the live broadcast screen, including likes, comments and share icons arranged vertically on the right, scrolling Chinese bullet screens and interactive comments below, and the "live broadcast" logo at the top, which looks like a real mobile phone screenshot. There is an eye-catching gift prompt special effect in the screen: "Shinning sent TikTok No. 1", with gift animation light effect and platform-style prompt box. Musk is in a professional live broadcast environment, with a mobile phone holder, a ring fill light and a desktop microphone in front of him. The background is a modern technology live broadcast room with bright lights and a slight neon atmosphere. The composition is real and natural, like the ongoing live screenshot of the Chinese short video platform. The interface information is rich but not messy, the characters are clear, the expression is vivid, the details are rich, the sense of real photography, the depth of field, high definition, cinematic, photorealistic, realistic livestream screenshot, social media UI, Chinese Douyin live room, detailed lighting, natural skin texture.
+
+Negative prompts:
+
+Low definition, blur, cartoon, illustration, too strong CG sense, two-dimensional, deformed fingers, wrong text, scrambled code, multiple mobile phones, multiple brands, character repetition, face collapse, facial features distortion, excessive skin polishing, overexposure, too dark, messy background, wrong UI, non-Chinese short video interface, too many English bullet screens, gift special effects are not obvious, cropping error, proportional error
+
+Supplementary reinforcement words:
+
+Real mobile phone screen recording screenshot feeling, the live broadcast UI is complete, the gift prompt box conforms to the style of the Chinese short video platform, the Chinese comment area is active, the number of people online in the live broadcast room is clearly displayed, and the time, power and signal bar are visible.
+```
+
+<!-- Case 37: Liu Yifei Douyin Livestream Screenshot (by @kylegeeks) -->
+### Case 37: [Liu Yifei Douyin Livestream Screenshot](https://x.com/kylegeeks/status/2046479783765397629) (by [@kylegeeks](https://x.com/kylegeeks))
+
+| Resultat |
+| :----: |
+| <img src="./images/ui_case37/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊!
+```
+
+<!-- Case 38: Cyberpunk Neon UI Design System (by @AZLnfvp) -->
+### Case 38: [Cyberpunk Neon UI Design System](https://x.com/AZLnfvp/status/2046468976092533180) (by [@AZLnfvp](https://x.com/AZLnfvp))
+
+| Resultat |
+| :----: |
+| <img src="./images/ui_case38/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+用未来都市风格生成UI设计系统,灵感来自赛博朋克城市夜景,包含霓虹灯、玻璃建筑反射、高对比光影,配色以紫色、蓝色、粉色霓虹为主,设计网页Dashboard、移动端界面、卡片、按钮、控件等,视觉炫酷、层次丰富、科技感极强
+```
+
+<!-- Case 39: Trump and Kim Livestream PK Screenshot (by @alanlovelq) -->
+### Case 39: [Trump and Kim Livestream PK Screenshot](https://x.com/alanlovelq/status/2046048929490612464) (by [@alanlovelq](https://x.com/alanlovelq))
+
+| Resultat |
+| :----: |
+| <img src="./images/ui_case39/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+1、生成特朗普和金正恩在抖音直播间打PK的截图  
+2、生成不知火舞的小红书主页截图  
+3、生成图片: 手写在教室黑板上的出师表全文,真实感的粉笔字迹,晴朗白天用iPhone手机实拍  
+4、生成图片: T-800机器人的淘宝商品详情页,展示: 机器人的正面侧面背面三视图, 产品价格, 产品细节, 功能和使用场景等
 ```
 
 ## Comparaisons et Exemples de la Communaute
@@ -989,6 +1798,10 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 <!-- Case 30: Counter-Strike x Terraria Screenshot Mashup (by @yssrski) -->
 ### Case 30: [Counter-Strike x Terraria Screenshot Mashup](https://x.com/yssrski/status/2046410519595348397) (by [@yssrski](https://x.com/yssrski))
 
+| Resultat |
+| :----: |
+| <img src="./images/comparison_case30/output.jpg" width="300" alt="Image du resultat"> |
+
 **Prompt：**
 
 ```
@@ -998,12 +1811,124 @@ counter strike in game screenshot, mixed with Terraria
 <!-- Case 31: Pre-war Japan Lab Minecraft Screenshot (by @RitaStar1128) -->
 ### Case 31: [Pre-war Japan Lab Minecraft Screenshot](https://x.com/RitaStar1128/status/2046406024303976904) (by [@RitaStar1128](https://x.com/RitaStar1128))
 
+| Resultat |
+| :----: |
+| <img src="./images/comparison_case31/output.jpg" width="300" alt="Image du resultat"> |
+
 **Prompt：**
 
 ```
 戦前日本の怪しげな研究所を探検しているマイクラのスクリーンショット画像を作成して
 ```
 
+<!-- Case 32: Forged Masterpiece Prompt Test (by @MrLarus) -->
+### Case 32: [Forged Masterpiece Prompt Test](https://x.com/MrLarus/status/2046201836525302032) (by [@MrLarus](https://x.com/MrLarus))
+
+| Resultat |
+| :----: |
+| <img src="./images/comparison_case32/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+帮我生成xxxx真迹图片
+```
+
+<!-- Case 33: Multi-Concept Battle Poster Set (by @joshesye) -->
+### Case 33: [Multi-Concept Battle Poster Set](https://x.com/joshesye/status/2046493442428039212) (by [@joshesye](https://x.com/joshesye))
+
+| Resultat |
+| :----: |
+| <img src="./images/comparison_case33/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+1、生成不知火舞和貂蝉的游戏对战海报图
+2、生成一张K-pop团体时尚专辑封面
+3、请你生成 《斗破苍穹》 的关键人物关系图
+4、帮我截一张上传图片的抖音首页的女网红图
+```
+
+<!-- Case 34: Rust In-Game Screenshot (by @FixlationAI) -->
+### Case 34: [Rust In-Game Screenshot](https://x.com/FixlationAI/status/2046272578705068476) (by [@FixlationAI](https://x.com/FixlationAI))
+
+| Resultat |
+| :----: |
+| <img src="./images/comparison_case34/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+an ingame screenshot of rust
+```
+
+<!-- Case 35: Sam Altman Bear Selfie (by @JustinGorya) -->
+### Case 35: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
+
+| Resultat |
+| :----: |
+| <img src="./images/comparison_case35/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+generate image: Selfie of Sam Altman riding a bear
+
+Edit prompt: Remove the background make it transparent
+```
+
+<!-- Case 36: Among Us Realistic Screenshot (by @ReYYYYoking) -->
+### Case 36: [Among Us Realistic Screenshot](https://x.com/ReYYYYoking/status/2046502217843376292) (by [@ReYYYYoking](https://x.com/ReYYYYoking))
+
+| Resultat |
+| :----: |
+| <img src="./images/comparison_case36/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+AmongUsの精密な実際のゲーム画像を生成して
+```
+
+<!-- Case 37: Retro Programming Museum Cartoon (by @XiaohuiAI666) -->
+### Case 37: [Retro Programming Museum Cartoon](https://x.com/XiaohuiAI666/status/2046515319947354603) (by [@XiaohuiAI666](https://x.com/XiaohuiAI666))
+
+| Resultat |
+| :----: |
+| <img src="./images/comparison_case37/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+在计算机博物馆里,一个程序员在展厅中央,正在演示C语言编程,很多参观者在围观,屏幕上的代码清晰可见。旁边的牌子写着:古法编程,现场表演。2D卡通画风,16:9
+```
+
+<!-- Case 38: 14th-Dimension Projection Scene (by @workingclassbud) -->
+### Case 38: [14th-Dimension Projection Scene](https://x.com/workingclassbud/status/2046506783850815703) (by [@workingclassbud](https://x.com/workingclassbud))
+
+| Resultat |
+| :----: |
+| <img src="./images/comparison_case38/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+A dusk shindig  with multiple fake imagination projections all aligned in the 14th dimensions
+```
+
+<!-- Case 39: Sam Altman Baseball Broadcast (by @16kthir0GRXgNqn) -->
+### Case 39: [Sam Altman Baseball Broadcast](https://x.com/16kthir0GRXgNqn/status/2046507362266259832) (by [@16kthir0GRXgNqn](https://x.com/16kthir0GRXgNqn))
+
+| Resultat |
+| :----: |
+| <img src="./images/comparison_case39/output.jpg" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+サムアルトマンがメジャーリーガーでバットを構えている。よくあるようなテレビ画面の構図
+```
 
 ## Remerciements
 
