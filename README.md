@@ -1043,8 +1043,50 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 ピラティス教室の広告画像を作成したい テキストはよりユーザーが登録をするのに惹かれるような文言にし、画像内には女性がピラティスを実際に行っている様子を映して
 ```
 
-<!-- Case 52: Ultra-Dense Information Design (by @EchoraContinuum) -->
-### Case 52: [Ultra-Dense Information Design](https://x.com/EchoraContinuum/status/2046517163826246133) (by [@EchoraContinuum](https://x.com/EchoraContinuum))
+<!-- Case 52: 6-Block Fashion Campaign Prompt Formula (by @anacoding) -->
+### Case 52: [6-Block Fashion Campaign Prompt Formula](https://x.com/anacoding/status/2046904999045628114) (by [@anacoding](https://x.com/anacoding))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case57/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Old money Hamptons editorial, tall blonde woman late 20s, serene elegant expression, wearing cream cashmere cable sweater, pleated beige tennis skirt, pearl earrings, Hermès silk scarf, leather flats, Slim Aarons photography style, medium format film photography, sitting on a white wooden porch of a Cape Cod house, golden hour light, ocean in the background
+```
+
+> [!NOTE]
+> Prompt structure shared in the thread: `[character] [person description] [outfit] [quality 1] [quality 2] [place]`.
+
+<!-- Case 53: Sony A7 Exploded View Breakdown Prompt (by @iaPulse_) -->
+### Case 53: [Sony A7 Exploded View Breakdown Prompt](https://x.com/iaPulse_/status/2046903739429097660) (by [@iaPulse_](https://x.com/iaPulse_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case58/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Descomposición detallada de una cámara de la marca Sony modelo A7 indicando todas sus piezas y con sus nombres.
+```
+
+<!-- Case 54: 1900 Istiklal Street Panorama Prompt (by @ai_gezgini) -->
+### Case 54: [1900 Istiklal Street Panorama Prompt](https://x.com/ai_gezgini/status/2046903631509705030) (by [@ai_gezgini](https://x.com/ai_gezgini))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case59/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+360 equirectangular image of Istiklal Street, Istanbul in 1900
+```
+
+<!-- Case 55: Ultra-Dense Information Design (by @EchoraContinuum) -->
+### Case 55: [Ultra-Dense Information Design](https://x.com/EchoraContinuum/status/2046517163826246133) (by [@EchoraContinuum](https://x.com/EchoraContinuum))
 
 | Output |
 | :----: |
@@ -1056,8 +1098,8 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 Generate somthing super complex and info dense...
 ```
 
-<!-- Case 53: Cute Chinese Expeditionary Force Storyboard (by @RainHuangapp) -->
-### Case 53: [Cute Chinese Expeditionary Force Storyboard](https://x.com/RainHuangapp/status/2046507931907080330) (by [@RainHuangapp](https://x.com/RainHuangapp))
+<!-- Case 56: Cute Chinese Expeditionary Force Storyboard (by @RainHuangapp) -->
+### Case 56: [Cute Chinese Expeditionary Force Storyboard](https://x.com/RainHuangapp/status/2046507931907080330) (by [@RainHuangapp](https://x.com/RainHuangapp))
 
 | Output |
 | :----: |
@@ -1070,8 +1112,8 @@ Generate somthing super complex and info dense...
 用波普风格讲述金刚经
 ```
 
-<!-- Case 54: Theme Science Encyclopedia Card (by @alanlovelq) -->
-### Case 54: [Theme Science Encyclopedia Card](https://x.com/alanlovelq/status/2046378199681257920) (by [@alanlovelq](https://x.com/alanlovelq))
+<!-- Case 57: Theme Science Encyclopedia Card (by @alanlovelq) -->
+### Case 57: [Theme Science Encyclopedia Card](https://x.com/alanlovelq/status/2046378199681257920) (by [@alanlovelq](https://x.com/alanlovelq))
 
 | Output |
 | :----: |
@@ -1702,6 +1744,21 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 2、生成不知火舞的小红书主页截图  
 3、生成图片: 手写在教室黑板上的出师表全文,真实感的粉笔字迹,晴朗白天用iPhone手机实拍  
 4、生成图片: T-800机器人的淘宝商品详情页,展示: 机器人的正面侧面背面三视图, 产品价格, 产品细节, 功能和使用场景等
+```
+
+<!-- Case 40: Japanese AI Game Dev Overview Slide Prompt (by @ailovedirector) -->
+### Case 40: [Japanese AI Game Dev Overview Slide Prompt](https://x.com/ailovedirector/status/2046905387274891296) (by [@ailovedirector](https://x.com/ailovedirector))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case40/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+横長のパワポ画像ここで生成してみて　どのモデル使ってるか判定するから、今のAIゲーム開発の概要をまとめた1枚パワポで　日本語で
+
+ゲーム開発の技術に関して、工数ベースでどこにパワーかかるかの分析資料といかに量産が大事かについての説明とかのパワポ画も作って
 ```
 
 ## Comparison & Community Examples
