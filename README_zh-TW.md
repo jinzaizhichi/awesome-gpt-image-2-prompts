@@ -401,8 +401,8 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 根据你对我的认知 给我生成一个“你认识的我”的 图片
 ```
 
-<!-- Case 19: Create the most realistic front page design of a vintage newspaper featuring the main char (by @Naiknelofar788) -->
-### Case 19: [Create the most realistic front page design of a vintage newspaper featuring the main char](https://x.com/Naiknelofar788/status/2047207812800147647?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+<!-- Case 19: Create the most realistic front page design of a vintage newspaper featuring ... (by @Naiknelofar788) -->
+### Case 19: [Create the most realistic front page design of a vintage newspaper featuring ...](https://x.com/Naiknelofar788/status/2047207812800147647?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
 
 | Output |
 | :----: |
@@ -431,8 +431,8 @@ Aspect ratio: 4:5 or 1:1
 High-detail, ultra-realistic hybrid of editorial photography and print design.
 ```
 
-<!-- Case 20: Create image of Magazine feature article [travel] guide page, cute, information dense phot (by @andis13) -->
-### Case 20: [Create image of Magazine feature article [travel] guide page, cute, information dense phot](https://x.com/andis13/status/2047204384811921764?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@andis13](https://x.com/andis13))
+<!-- Case 20: Create image of Magazine feature article [travel] guide page, cute, informati... (by @andis13) -->
+### Case 20: [Create image of Magazine feature article [travel] guide page, cute, informati...](https://x.com/andis13/status/2047204384811921764?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@andis13](https://x.com/andis13))
 
 | Output |
 | :----: |
@@ -444,8 +444,8 @@ High-detail, ultra-realistic hybrid of editorial photography and print design.
 Create image of Magazine feature article [travel] guide page, cute, information dense photo book style magazine feature article page. Add all necessary sections, tips, recommendations, information. add photos for any sections and recommendations if you like. Place the attached person at the precise location of [city, country]. Seamlessly blend the attached person as if they are sightseeing. Approach this task with the understanding that this is a critical, information rich page that will significantly influence visitor numbers, text accuracy is important. Fully use the entire [9:16] page. NEGATIVE PROMPT: coordinate texts @swiat_ai @ProfitAII
 ```
 
-<!-- Case 21: analyze this photo and give me a detailed JSON prompt that recreates it. break down the co (by @pavellaslov) -->
-### Case 21: [analyze this photo and give me a detailed JSON prompt that recreates it. break down the co](https://x.com/pavellaslov/status/2047182214304055339?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@pavellaslov](https://x.com/pavellaslov))
+<!-- Case 21: analyze this photo and give me a detailed JSON prompt that recreates it. brea... (by @pavellaslov) -->
+### Case 21: [analyze this photo and give me a detailed JSON prompt that recreates it. brea...](https://x.com/pavellaslov/status/2047182214304055339?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@pavellaslov](https://x.com/pavellaslov))
 
 | Output |
 | :----: |
@@ -473,8 +473,8 @@ the #1 tell on AI photos is flat colors and a grainy look. this method removes b
 5 minutes to set up. unlimited variations after.
 ```
 
-<!-- Case 22: CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-green film po (by @ZaraIrahh) -->
-### Case 22: [CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-green film po](https://x.com/ZaraIrahh/status/2047180061657452601?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+<!-- Case 22: CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-... (by @ZaraIrahh) -->
+### Case 22: [CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-...](https://x.com/ZaraIrahh/status/2047180061657452601?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
 
 | Output |
 | :----: |
@@ -486,8 +486,8 @@ the #1 tell on AI photos is flat colors and a grainy look. this method removes b
 CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-green film pouches and translucent ampoules with matte silver caps, product placed centrally with clear branding CALMING GREEN TEA -- 7 Days to Soothed Skin, pastel green background with botanical graphic accents, three minimal icons (leaf, wave, balance) floating around the product to emphasize benefits, photographic, hyper detailed, ultra realistic, lifelike, 8k, high detail, soft professional lighting.
 ```
 
-<!-- Case 23: Ultra-realistic product photography of a rich strawberry soft-serve ice cream in a crispy (by @ZaraIrahh) -->
-### Case 23: [Ultra-realistic product photography of a rich strawberry soft-serve ice cream in a crispy](https://x.com/ZaraIrahh/status/2047179916161212542?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+<!-- Case 23: Ultra-realistic product photography of a rich strawberry soft-serve ice cream... (by @ZaraIrahh) -->
+### Case 23: [Ultra-realistic product photography of a rich strawberry soft-serve ice cream...](https://x.com/ZaraIrahh/status/2047179916161212542?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
 
 | Output |
 | :----: |
@@ -509,8 +509,8 @@ Lighting: soft natural daylight, warm highlights, shallow depth of field, high-e
 Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert branding.
 ```
 
-<!-- Case 24: A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal woode (by @ZaraIrahh) -->
-### Case 24: [A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal woode](https://x.com/ZaraIrahh/status/2047179669011616172?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+<!-- Case 24: A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ... (by @ZaraIrahh) -->
+### Case 24: [A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ...](https://x.com/ZaraIrahh/status/2047179669011616172?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
 
 | Output |
 | :----: |
@@ -522,8 +522,8 @@ Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert
 A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal wooden desk with soft natural daylight. The screen shows a clean SaaS dashboard with elegant typography, glassmorphism cards, smooth gradients, subtle drop shadows, and neatly spaced components. Visible charts, analytics panels, sidebar navigation, and micro-interactions. Realistic macOS-style window frame, soft reflections on the screen, shallow depth of field, cozy workspace atmosphere, shot in photorealistic product photography style, ultra-detailed.
 ```
 
-<!-- Case 25: Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young man with a slim (by @harboriis) -->
-### Case 25: [Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young man with a slim](https://x.com/harboriis/status/2047175250761433416?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@harboriis](https://x.com/harboriis))
+<!-- Case 25: Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma... (by @harboriis) -->
+### Case 25: [Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma...](https://x.com/harboriis/status/2047175250761433416?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@harboriis](https://x.com/harboriis))
 
 | Output |
 | :----: |
@@ -1387,8 +1387,8 @@ AI 必须依据【主题】自动决定最合适的:
 最大细节密度,超清,电影级,印刷级,高端成片质感。
 ```
 
-<!-- Case 58: A full-body outdoor shot captures a young Caucasian woman, possibly in her late 20s, strid (by @AIwithSarah_) -->
-### Case 58: [A full-body outdoor shot captures a young Caucasian woman, possibly in her late 20s, strid](https://x.com/AIwithSarah_/status/2047234995627172229?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@AIwithSarah_](https://x.com/AIwithSarah_))
+<!-- Case 58: A full-body outdoor shot captures a young Caucasian woman, possibly in her la... (by @AIwithSarah_) -->
+### Case 58: [A full-body outdoor shot captures a young Caucasian woman, possibly in her la...](https://x.com/AIwithSarah_/status/2047234995627172229?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@AIwithSarah_](https://x.com/AIwithSarah_))
 
 | Output |
 | :----: |
@@ -1442,8 +1442,8 @@ Commercial product photography, ultra-detailed, 8K.
 Online 360° Panorama Viewer VR
 ```
 
-<!-- Case 61: Soft poetic children's book illustration with watercolor and gouache textures.Clear gentle (by @dotey) -->
-### Case 61: [Soft poetic children's book illustration with watercolor and gouache textures.Clear gentle](https://x.com/dotey/status/2047174895293849972?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@dotey](https://x.com/dotey))
+<!-- Case 61: Soft poetic children's book illustration with watercolor and gouache textures... (by @dotey) -->
+### Case 61: [Soft poetic children's book illustration with watercolor and gouache textures...](https://x.com/dotey/status/2047174895293849972?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@dotey](https://x.com/dotey))
 
 | Output |
 | :----: |
@@ -2110,8 +2110,8 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 4、生成图片: T-800机器人的淘宝商品详情页,展示: 机器人的正面侧面背面三视图, 产品价格, 产品细节, 功能和使用场景等
 ```
 
-<!-- Case 41: based on the generated character help me generate a screenshot of screenshot of an pvp gam (by @khaiinit) -->
-### Case 41: [based on the generated character help me generate a screenshot of screenshot of an pvp gam](https://x.com/khaiinit/status/2047219694130827273?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@khaiinit](https://x.com/khaiinit))
+<!-- Case 41: based on the generated character help me generate a screenshot of screenshot ... (by @khaiinit) -->
+### Case 41: [based on the generated character help me generate a screenshot of screenshot ...](https://x.com/khaiinit/status/2047219694130827273?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@khaiinit](https://x.com/khaiinit))
 
 | Output |
 | :----: |
@@ -2123,8 +2123,8 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 based on the generated character help me generate a screenshot of screenshot of an pvp game themed around *zelda: wind breaker*
 ```
 
-<!-- Case 42: Create a landing page using this image as a reference for style and color grading.” (by @D_studioproject) -->
-### Case 42: [Create a landing page using this image as a reference for style and color grading.”](https://x.com/D_studioproject/status/2047212826264211540?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@D_studioproject](https://x.com/D_studioproject))
+<!-- Case 42: Create a landing page using this image as a reference for style and color gra... (by @D_studioproject) -->
+### Case 42: [Create a landing page using this image as a reference for style and color gra...](https://x.com/D_studioproject/status/2047212826264211540?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@D_studioproject](https://x.com/D_studioproject))
 
 | Output |
 | :----: |
@@ -2136,30 +2136,8 @@ based on the generated character help me generate a screenshot of screenshot of 
 Create a landing page using this image as a reference for style and color grading.
 ```
 
-<!-- Case 43: a Final Fantasy VIII Remake gameplay screenshot at next-gen fidelity (FF16 / GTA6 / RE9). (by @bonega_ai) -->
-### Case 43: [a Final Fantasy VIII Remake gameplay screenshot at next-gen fidelity (FF16 / GTA6 / RE9).](https://x.com/bonega_ai/status/2047208708459966846?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@bonega_ai](https://x.com/bonega_ai))
-
-
-
-**提示詞:**
-
-```
-a Final Fantasy VIII Remake gameplay screenshot at next-gen fidelity (FF16 / GTA6 / RE9).
-```
-
-<!-- Case 44: Create a commercial ad from the storyboard @[image1] (by @aimikoda) -->
-### Case 44: [Create a commercial ad from the storyboard @[image1]](https://x.com/aimikoda/status/2047198655371759973?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@aimikoda](https://x.com/aimikoda))
-
-
-
-**提示詞:**
-
-```
-Create a commercial ad from the storyboard @[image1]
-```
-
-<!-- Case 45: 李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案"OMG买它 (by @songguoxiansen) -->
-### Case 45: [李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案"OMG买它](https://x.com/songguoxiansen/status/2047207826913972518?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
+<!-- Case 43: 李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案"OMG买它 (by @songguoxiansen) -->
+### Case 43: [李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案"OMG买它](https://x.com/songguoxiansen/status/2047207826913972518?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
@@ -2174,8 +2152,8 @@ Create a commercial ad from the storyboard @[image1]
 ## 模型比較與社群案例
 
 
-<!-- Case 40: Based on the video content and this current frame, use GPT to generate a YouTube thumbnail (by @chatcutapp) -->
-### Case 40: [Based on the video content and this current frame, use GPT to generate a YouTube thumbnail](https://x.com/chatcutapp/status/2047228386117128475?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@chatcutapp](https://x.com/chatcutapp))
+<!-- Case 40: Based on the video content and this current frame, use GPT to generate a YouT... (by @chatcutapp) -->
+### Case 40: [Based on the video content and this current frame, use GPT to generate a YouT...](https://x.com/chatcutapp/status/2047228386117128475?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@chatcutapp](https://x.com/chatcutapp))
 
 | Output |
 | :----: |
@@ -2200,8 +2178,8 @@ Based on the video content and this current frame, use GPT to generate a YouTube
 Generate an image of the most significant event of 2020
 ```
 
-<!-- Case 42: Edit this image so that total amount changes to 244.5 baht. You can change the quantity of (by @elliscrosby) -->
-### Case 42: [Edit this image so that total amount changes to 244.5 baht. You can change the quantity of](https://x.com/elliscrosby/status/2047211507596071235?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@elliscrosby](https://x.com/elliscrosby))
+<!-- Case 42: Edit this image so that total amount changes to 244.5 baht. You can change th... (by @elliscrosby) -->
+### Case 42: [Edit this image so that total amount changes to 244.5 baht. You can change th...](https://x.com/elliscrosby/status/2047211507596071235?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@elliscrosby](https://x.com/elliscrosby))
 
 | Output |
 | :----: |
@@ -2239,8 +2217,8 @@ Generate an image of the most significant event of 2001
 Generate an image of the most significant event of 2025.
 ```
 
-<!-- Case 45: Wykorzystaj wszystko, co o mnie wiesz, i stwórz infografikę przedstawiającą mnie. Zrób to (by @andis13) -->
-### Case 45: [Wykorzystaj wszystko, co o mnie wiesz, i stwórz infografikę przedstawiającą mnie. Zrób to](https://x.com/andis13/status/2047197275525701937?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@andis13](https://x.com/andis13))
+<!-- Case 45: Wykorzystaj wszystko, co o mnie wiesz, i stwórz infografikę przedstawiającą m... (by @andis13) -->
+### Case 45: [Wykorzystaj wszystko, co o mnie wiesz, i stwórz infografikę przedstawiającą m...](https://x.com/andis13/status/2047197275525701937?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@andis13](https://x.com/andis13))
 
 | Output |
 | :----: |
@@ -2267,8 +2245,8 @@ Idea: @icreatelife
 参照画像だと正確な円筒図にならない？もっと試してみないと。
 ```
 
-<!-- Case 47: Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una imagen en estilo (by @aitorwilzig) -->
-### Case 47: [Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una imagen en estilo](https://x.com/aitorwilzig/status/2047190320064925845?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@aitorwilzig](https://x.com/aitorwilzig))
+<!-- Case 47: Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una ima... (by @aitorwilzig) -->
+### Case 47: [Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una ima...](https://x.com/aitorwilzig/status/2047190320064925845?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@aitorwilzig](https://x.com/aitorwilzig))
 
 | Output |
 | :----: |
@@ -2436,8 +2414,8 @@ Research LIME Drug Design and make a detailed infographic about it
 中国航天纪念邮票小全张，火箭发射场景，烫金边框工艺
 ```
 
-<!-- Case 58: 9:16 竖版，极致武侠风，绝美东方女侠，20岁出头，冷艳锐利丹凤眼，眉宇英气逼人，肤白如玉，长直黑发湿漉漉随狂风剧烈飞舞，几缕发丝贴在脸颊和颈侧，穿着湿透的深黑改良武侠劲装，外披 (by @CoderDaMing) -->
-### Case 58: [9:16 竖版，极致武侠风，绝美东方女侠，20岁出头，冷艳锐利丹凤眼，眉宇英气逼人，肤白如玉，长直黑发湿漉漉随狂风剧烈飞舞，几缕发丝贴在脸颊和颈侧，穿着湿透的深黑改良武侠劲装，外披](https://x.com/CoderDaMing/status/2047127585256358221?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@CoderDaMing](https://x.com/CoderDaMing))
+<!-- Case 58: 9:16 竖版，极致武侠风，绝美东方女侠，20岁出头，冷艳锐利丹凤眼，眉宇英气逼人，肤白如玉，长直黑发湿漉漉随狂风剧烈飞舞，几缕发丝贴在脸颊和颈侧，穿着湿... (by @CoderDaMing) -->
+### Case 58: [9:16 竖版，极致武侠风，绝美东方女侠，20岁出头，冷艳锐利丹凤眼，眉宇英气逼人，肤白如玉，长直黑发湿漉漉随狂风剧烈飞舞，几缕发丝贴在脸颊和颈侧，穿着湿...](https://x.com/CoderDaMing/status/2047127585256358221?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@CoderDaMing](https://x.com/CoderDaMing))
 
 | Output |
 | :----: |
@@ -2488,8 +2466,8 @@ Research LIME Drug Design and make a detailed infographic about it
 根据真实历史对杨玉环的形象描述，生成一张杨贵妃真实照片，画质为iPhone 15 pro
 ```
 
-<!-- Case 62: 参考这张图的透视和风格，绘制一张更加精细的超高清插画，表现超现实主义的日式未来都市，要能看清很小的细节，包括街道上的传统文化游行的人，小巷里的黑帮，烟花巷的舞女，疲惫的社畜，楼房的 (by @Tresmort) -->
-### Case 62: [参考这张图的透视和风格，绘制一张更加精细的超高清插画，表现超现实主义的日式未来都市，要能看清很小的细节，包括街道上的传统文化游行的人，小巷里的黑帮，烟花巷的舞女，疲惫的社畜，楼房的](https://x.com/Tresmort/status/2047105322863460496?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Tresmort](https://x.com/Tresmort))
+<!-- Case 62: 参考这张图的透视和风格，绘制一张更加精细的超高清插画，表现超现实主义的日式未来都市，要能看清很小的细节，包括街道上的传统文化游行的人，小巷里的黑帮，烟花巷... (by @Tresmort) -->
+### Case 62: [参考这张图的透视和风格，绘制一张更加精细的超高清插画，表现超现实主义的日式未来都市，要能看清很小的细节，包括街道上的传统文化游行的人，小巷里的黑帮，烟花巷...](https://x.com/Tresmort/status/2047105322863460496?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Tresmort](https://x.com/Tresmort))
 
 | Output |
 | :----: |
