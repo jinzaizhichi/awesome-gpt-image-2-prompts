@@ -42,6 +42,7 @@ If you find this useful, consider giving it a star. ⭐
 
 ## News
 
+- **April 23, 2026:** Standardized case titles in `README.md` and all localized README files, including menu entries, anchors, and case headings
 - **April 21, 2026:** Categorized 48 new prompt cases into the gallery sections and downloaded linked output images
 - **April 21, 2026:** Added 12 new GPT-Image-2 prompts across portrait, poster, UI, and comparison cases
 - **April 20, 2026:** Added 10 newly curated GPT-Image-2 prompts with local image assets and README updates.

@@ -45,6 +45,7 @@ Evolink で試す: [GPT-Image-2](https://evolink.ai/gpt-image-2?utm_source=githu
 
 ## 最新情報
 
+- **2026年4月23日:** `README.md` と各言語版 README で case title を統一し、メニュー項目、アンカー、ケース見出しを更新
 - **2026年4月21日:** 48件の新しいプロンプト事例をギャラリーの各セクションに整理し、リンク先の出力画像をダウンロードしました
 - **2026年4月21日:** ポートレート、ポスター、UI、比較カテゴリに GPT-Image-2 の新規プロンプトを 12 件追加
 - **2026年4月20日:** ローカル画像アセットと README 更新を含む GPT-Image-2 の新規キュレーション済みプロンプトを 10 件追加。
@@ -3116,4 +3117,3 @@ GPT Image-2で生成したやつ→
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gpt-image-2-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gpt-image-2-prompts&Date)
-

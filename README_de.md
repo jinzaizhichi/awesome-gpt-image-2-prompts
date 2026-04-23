@@ -45,6 +45,7 @@ Wenn dir das nuetzt, gib dem Repository gern einen Star. ⭐
 
 ## Neuigkeiten
 
+- **23. April 2026:** Case-Titel in `README.md` und allen lokalisierten README-Dateien vereinheitlicht, einschliesslich Menueeintraegen, Ankern und Fallueberschriften
 - **21. April 2026:** 48 neue Prompt-Faelle in die Galerieabschnitte einsortiert und verlinkte Ausgabebilder heruntergeladen
 - **21. April 2026:** 12 neue GPT-Image-2-Prompts fuer Portraet-, Poster-, UI- und Vergleichsfaelle hinzugefuegt
 - **20. April 2026:** 10 neu kuratierte GPT-Image-2-Prompts mit lokalen Bildassets und README-Updates hinzugefuegt.
@@ -3116,4 +3117,3 @@ Wenn du weitere interessante GPT-Image-2-Prompt-Faelle teilen moechtest, melde d
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gpt-image-2-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gpt-image-2-prompts&Date)
-

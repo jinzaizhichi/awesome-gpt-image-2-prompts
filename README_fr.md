@@ -45,6 +45,7 @@ Si cela vous est utile, pensez a mettre une etoile. ⭐
 
 ## Actualites
 
+- **23 avril 2026 :** Standardisation des titres de cas dans `README.md` et dans tous les README localises, y compris les entrees de menu, les ancres et les titres de cas
 - **21 avril 2026 :** 48 nouveaux cas de prompts ont ete classes dans les sections de la galerie et les images de sortie liees ont ete telechargees
 - **21 avril 2026 :** Ajout de 12 nouveaux prompts GPT-Image-2 dans les categories portrait, affiche, UI et comparaison
 - **20 avril 2026 :** Ajout de 10 nouveaux prompts GPT-Image-2 organises avec des ressources image locales et des mises a jour du README.
@@ -3116,4 +3117,3 @@ Si vous avez d autres cas de prompts GPT-Image-2 interessants a partager, n hesi
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gpt-image-2-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gpt-image-2-prompts&Date)
-

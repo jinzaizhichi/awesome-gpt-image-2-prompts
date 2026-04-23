@@ -45,6 +45,7 @@
 
 ## 最新动态
 
+- **2026 年 4 月 23 日：** 已统一 `README.md` 及所有本地化 README 中的 case title，并同步更新目录项、锚点与案例标题
 - **2026 年 4 月 21 日：** 已将 48 个新 prompt 案例整理归入图库分区，并下载对应链接输出图像
 - **2026 年 4 月 21 日：** 新增 12 个 GPT-Image-2 prompts，涵盖人像、海报、UI 与对比案例
 - **2026 年 4 月 20 日：** 新增 10 个精选 GPT-Image-2 prompts，并同步补充本地图片资源与 README 更新。
@@ -3116,4 +3117,3 @@ GPT Image-2で生成したやつ→
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gpt-image-2-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gpt-image-2-prompts&Date)
-

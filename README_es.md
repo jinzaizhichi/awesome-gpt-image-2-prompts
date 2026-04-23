@@ -45,6 +45,7 @@ Si esto te resulta util, considera darle una estrella. ⭐
 
 ## Novedades
 
+- **23 de abril de 2026:** Se estandarizaron los titulos de los casos en `README.md` y en todos los README localizados, incluidos los elementos del menu, las anclas y los encabezados de casos
 - **21 de abril de 2026:** Se categorizaron 48 nuevos casos de prompts en las secciones de la galeria y se descargaron las imagenes de salida enlazadas
 - **21 de abril de 2026:** Se agregaron 12 nuevos prompts de GPT-Image-2 en casos de retrato, poster, UI y comparativas
 - **20 de abril de 2026:** Se agregaron 10 nuevos prompts curados de GPT-Image-2 con recursos de imagen locales y actualizaciones del README.
@@ -3116,4 +3117,3 @@ Si tienes mas casos interesantes de prompts de GPT-Image-2 para compartir, no du
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gpt-image-2-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gpt-image-2-prompts&Date)
-
