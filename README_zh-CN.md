@@ -138,7 +138,7 @@
   - [Case 66: 西游记女儿国海报 (by @cj858cjsoul)](#case-66-journey-to-the-west-daughter-kingdom-poster)
   - [Case 67: 鹿鼎记角色海报 (by @caiziboshi)](#case-67-royal-tramp-character-poster)
   - [Case 68: 赛车规格海报 (by @verysmallwoods)](#case-68-generate-an-image-of-a-racing-car-poster-with-its-spec-and-pricing-by-verysmallwoods)
-  - [Case 69: 卓别林产品海报重新设计 (by @chenenpei)](#case-69-charlie-chaplin-product-poster-redesign)
+  - [Case 69: 卓别林产品海报重新设计 (by @chenenpei)](#case-69-charlie-chaplin-product-poster-redesign-by-chenenpei)
 - [角色设计案例](#角色设计案例)
   - [Case 1: Anime Snapshot Conversion (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
   - [Case 2: Persona5 Character Reference Card (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
