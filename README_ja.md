@@ -76,7 +76,7 @@ Evolink で試す: [GPT-Image-2](https://evolink.ai/models?utm_source=github&utm
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case113/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case113/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -88,7 +88,7 @@ A luxurious cinematic product photograph of a classic rectangular perfume bottle
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case114/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case114/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -100,7 +100,7 @@ A soft {argument name="bottle color" default="cream-colored"} bottle with a {arg
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case115/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case115/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -112,7 +112,7 @@ Create a vibrant tropical commercial poster for a citrus soda bottle, in a brigh
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case116/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case116/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -136,7 +136,7 @@ Style & Finish: Matte textures, clean silhouettes, and sharp edges. Leave design
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case117/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case117/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -148,7 +148,7 @@ A warm, editorial-style lifestyle product photo shot indoors from a low close-up
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case118/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case118/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -160,7 +160,7 @@ A luxury e-commerce advertising photo of a premium perfume bottle on a polished 
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case151/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case151/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -172,7 +172,7 @@ A hyper-realistic miniature diorama product advertisement featuring an oversized
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case152/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case152/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -186,7 +186,7 @@ A famille rose porcelain vase featuring Lady Yang Guifei enjoying flowers, with 
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case153/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case153/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -198,7 +198,7 @@ A high-end enthusiast ATX gaming motherboard product photo on a dark studio back
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case154/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case154/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -210,7 +210,7 @@ A high-end enthusiast ATX gaming motherboard product photo on a dark studio back
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case155/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case155/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -243,7 +243,7 @@ Style: Ultra-realistic, commercial product photography, 8k resolution, sharp foc
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case156/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case156/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -255,7 +255,7 @@ A premium eco-conscious fashion advertisement, shot as a refined editorial produ
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case157/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case157/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -267,7 +267,7 @@ An image in a {argument name="reference style" default="similar style"}, a produ
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case158/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case158/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -289,7 +289,7 @@ Style: ultra clean, editorial minimal, high-end branding, 8K.
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case159/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case159/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -301,7 +301,7 @@ A high-end studio advertising poster for {argument name="brand name" default="cr
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case160/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case160/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -313,7 +313,7 @@ Using the provided reference image, transform the single casual product photo in
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case89/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case89/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -371,7 +371,7 @@ Using the provided reference image, transform the single casual product photo in
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case161/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case161/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -383,7 +383,7 @@ Create a premium product studio image of a [PRODUCT] for [BRAND], designed in li
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case162/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case162/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -396,7 +396,7 @@ Create a square [ASPECT RATIO] premium food photography image of a steaming [FOO
 
 | 出力 |
 | :----: |
-| <img src="./images/ecommerce_case163/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ecommerce_case163/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -412,7 +412,7 @@ Prompt 2: Create a 9-cell hybrid keyframe-to-transition storyboard sheet for a 1
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case90/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case90/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -519,7 +519,7 @@ Prompt 2: Create a 9-cell hybrid keyframe-to-transition storyboard sheet for a 1
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case112/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case112/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -579,7 +579,7 @@ Prompt 2: Create a 9-cell hybrid keyframe-to-transition storyboard sheet for a 1
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case108/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case108/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -658,7 +658,7 @@ Prompt 2: Create a 9-cell hybrid keyframe-to-transition storyboard sheet for a 1
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case107/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case107/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -755,7 +755,7 @@ Prompt 2: Create a 9-cell hybrid keyframe-to-transition storyboard sheet for a 1
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case166/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case166/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -781,7 +781,7 @@ Texture of cheap paper printing. Includes fold marks. Precision that could be mi
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case167/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case167/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -793,7 +793,7 @@ Texture of cheap paper printing. Includes fold marks. Precision that could be mi
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case143/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case143/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -812,7 +812,7 @@ Tilt-shift depth of field, greenhouse morning light, the packet as the garden it
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case144/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case144/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -824,7 +824,7 @@ A dramatic luxury product advertising image for a motorsport-inspired chronograp
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case145/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case145/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -836,7 +836,7 @@ A high-energy vertical Nike fashion campaign poster featuring a single athletic 
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case146/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case146/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -848,7 +848,7 @@ Create a bold streetwear poster advertisement for {argument name="brand name" de
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case147/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case147/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -860,7 +860,7 @@ A clean editorial fashion advertisement poster on a pale powder-blue studio back
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case148/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case148/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -872,7 +872,7 @@ A high-end editorial product photograph of a single luxury perfume bottle center
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case149/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case149/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -884,7 +884,7 @@ A luxurious editorial product photograph of a single perfume bottle nestled into
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case150/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case150/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -896,7 +896,7 @@ A hyper-detailed cinematic isometric miniature city model of {argument name="lan
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case131/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case131/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -908,7 +908,7 @@ High-impact parody e-commerce infographic for “{argument name="product" defaul
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case109/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case109/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -954,7 +954,7 @@ High-impact parody e-commerce infographic for “{argument name="product" defaul
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case168/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case168/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -980,7 +980,7 @@ High-impact parody e-commerce infographic for “{argument name="product" defaul
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case169/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case169/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -992,7 +992,7 @@ Create a premium, square (1:1) product advertisement for a fictional luxury choc
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case170/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case170/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1220,7 +1220,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 | 出力 |
 | :----: |
-| <img src="images/portrait_case70/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case70/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1249,7 +1249,7 @@ High-detail, ultra-realistic hybrid of editorial photography and print design.
 
 | 出力 |
 | :----: |
-| <img src="images/portrait_case71/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case71/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1261,7 +1261,7 @@ Create image of Magazine feature article [travel] guide page, cute, information 
 
 | 出力 |
 | :----: |
-| <img src="images/portrait_case77/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case77/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1289,7 +1289,7 @@ the #1 tell on AI photos is flat colors and a grainy look. this method removes b
 
 | 出力 |
 | :----: |
-| <img src="images/portrait_case78/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case78/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1301,7 +1301,7 @@ CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-gre
 
 | 出力 |
 | :----: |
-| <img src="images/portrait_case79/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case79/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1323,7 +1323,7 @@ Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert
 
 | 出力 |
 | :----: |
-| <img src="images/portrait_case80/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case80/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1335,7 +1335,7 @@ A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a min
 
 | 出力 |
 | :----: |
-| <img src="images/portrait_case81/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case81/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1451,7 +1451,7 @@ good drawing, nice lines, clear shapes, neat, pretty, smooth, realistic, talente
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case82/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case82/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1463,7 +1463,7 @@ A restored vintage family snapshot, photographed indoors in soft natural light, 
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case83/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case83/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1475,7 +1475,7 @@ A heavily damaged old family snapshot in faded black and white with a slight sep
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case84/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case84/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1487,7 +1487,7 @@ A black-and-white hand-drawn family portrait in the style of detailed pen-and-in
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case85/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case85/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1499,7 +1499,7 @@ A centered black-and-white vintage engraved portrait of a bearded man wearing a 
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case86/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case86/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1511,7 +1511,7 @@ A cinematic soft-focus portrait of a woman from behind and slightly in profile, 
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case87/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case87/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1523,7 +1523,7 @@ High-quality 3D CGI render of {argument name="character" default="[character]"} 
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case88/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case88/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1535,7 +1535,7 @@ Vertical 2:3 format. {argument name="subject" default="Young woman"} hair in mes
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case89/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case89/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1547,7 +1547,7 @@ Using REFERENCE_0 as the subject base, transform the casual desert snapshot into
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case90/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case90/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1559,7 +1559,7 @@ A polished anime-style portrait of {argument name="character" default="a blonde 
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case91/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case91/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1571,7 +1571,7 @@ A polished anime-style portrait of {argument name="character" default="a blonde 
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case92/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case92/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1583,7 +1583,7 @@ Create a minimalist black-and-white vector avatar logo of a mythic anime woman s
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case93/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case93/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1595,7 +1595,7 @@ A highly detailed anime-style full-body character portrait of {argument name="ch
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case94/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case94/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1607,7 +1607,7 @@ A delicate vertical anime portrait of a dreamy young woman in an ethereal pastel
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case95/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case95/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1619,7 +1619,7 @@ A dreamy anime portrait of {argument name="character name" default="Kotori"}, a 
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case96/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case96/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1631,7 +1631,7 @@ A dreamy anime-style portrait of a gentle virtual assistant girl named {argument
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case97/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case97/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1643,7 +1643,7 @@ A dramatic, high-contrast studio portrait of a {argument name="subject gender" d
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case98/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case98/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1655,7 +1655,7 @@ A {argument name="style" default="photobook-style portrait"} of a {argument name
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case99/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case99/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1667,7 +1667,7 @@ A dreamy surreal portrait of a {argument name="subject" default="young woman"} s
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case100/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case100/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1679,7 +1679,7 @@ A candid, photorealistic Japanese high school classroom scene in vertical smartp
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case101/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case101/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1691,7 +1691,7 @@ A soft anime-style bedroom portrait of {argument name="character name" default="
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case102/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case102/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1719,7 +1719,7 @@ photorealistic, ultra detailed, cinematic studio lighting, realistic figurine, c
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case103/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case103/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1737,7 +1737,7 @@ pants. Moody, dark, atmospheric street photography.
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case104/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case104/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -1750,7 +1750,7 @@ A hyper-photorealistic shot of the same subject in the attached image, ultra-det
 
 | 出力 |
 | :----: |
-| <img src="./images/portrait_case105/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case105/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2463,7 +2463,7 @@ AI 必须依据【主题】自动决定最合适的:
 
 | 出力 |
 | :----: |
-| <img src="images/poster_case60/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case60/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2475,7 +2475,7 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 
 | 出力 |
 | :----: |
-| <img src="images/poster_case62/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case62/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2515,7 +2515,7 @@ Online 360° Panorama Viewer VR
 
 | 出力 |
 | :----: |
-| <img src="images/poster_case82/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case82/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2531,7 +2531,7 @@ Two children in calm conversation,soft connection forming.
 
 | 出力 |
 | :----: |
-| <img src="images/poster_case85/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case85/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2579,7 +2579,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | 出力 |
 | :----: |
-| <img src="images/poster_case87/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case87/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2591,7 +2591,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | 出力 |
 | :----: |
-| <img src="images/poster_case89/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case89/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2605,7 +2605,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | 出力 |
 | :----: |
-| <img src="images/poster_case90/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case90/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2619,7 +2619,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | 出力 |
 | :----: |
-| <img src="images/poster_case103/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case103/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2633,7 +2633,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | 出力 |
 | :----: |
-| <img src="images/poster_case104/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case104/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2645,7 +2645,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | 出力 |
 | :----: |
-| <img src="images/poster_case105/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case105/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2657,7 +2657,7 @@ generate an image of a racing car poster with its spec and pricing
 
 | 出力 |
 | :----: |
-| <img src="images/poster_case106/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case106/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2858,7 +2858,7 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case110/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case110/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2904,7 +2904,7 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case111/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case111/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2956,7 +2956,7 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case119/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case119/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2968,7 +2968,7 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case120/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case120/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2980,7 +2980,7 @@ A highly detailed vertical Taoist esoteric infographic poster in the style of an
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case121/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case121/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -2992,7 +2992,7 @@ A highly detailed vertical Taoist esoteric infographic poster in the style of an
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case122/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case122/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3004,7 +3004,7 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case123/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case123/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3016,7 +3016,7 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case124/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case124/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3028,7 +3028,7 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case125/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case125/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3050,7 +3050,7 @@ Overall design should feel premium, feminine, mystical, and collectible, like a 
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case126/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case126/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3062,7 +3062,7 @@ Overall design should feel premium, feminine, mystical, and collectible, like a 
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case127/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case127/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3074,7 +3074,7 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case128/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case128/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3086,7 +3086,7 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case129/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case129/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3098,7 +3098,7 @@ Create a vintage illustrated travel poster in traditional Chinese for {argument 
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case130/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case130/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3137,7 +3137,7 @@ no cluttered backgrounds
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case132/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case132/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3149,7 +3149,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case133/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case133/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3161,7 +3161,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case134/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case134/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3173,7 +3173,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case135/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case135/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3185,7 +3185,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case136/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case136/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3197,7 +3197,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case137/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case137/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3209,7 +3209,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case138/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case138/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3221,7 +3221,7 @@ A {argument name="painting style" default="baroque oil painting"} comes to life 
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case139/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case139/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3252,7 +3252,7 @@ Generate image using uploaded image as reference
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case140/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case140/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3264,7 +3264,7 @@ Using the provided reference image, transform the top-down RPG town map into a p
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case141/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case141/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3276,7 +3276,7 @@ A full-body anime girl character design on a plain white background, centered an
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case142/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case142/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3288,7 +3288,7 @@ A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-sty
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case161/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case161/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3300,7 +3300,7 @@ A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-sty
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case162/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case162/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3312,7 +3312,7 @@ Create a soft editorial lifestyle poster for {argument name="event date" default
 
 | 出力 |
 | :----: |
-| <img src="./images/ecommerce_case163/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ecommerce_case163/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3324,7 +3324,7 @@ Create a soft editorial lifestyle poster for {argument name="event date" default
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case164/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case164/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3336,7 +3336,7 @@ A dreamy anime-style full-body illustration of a fashionable young woman standin
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case165/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case165/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3348,7 +3348,7 @@ A cinematic wide aerial view of a tropical coastal city at sunset during a viole
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case168/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case168/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3392,7 +3392,7 @@ Aspect ratio: 1:1 (square collage)
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case169/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case169/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3416,7 +3416,7 @@ top-down satellite perspective, NASA Earth observation style, hyper-detailed tex
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case170/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case170/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3447,7 +3447,7 @@ Ultra-realistic liquid detail, sharp reflections, premium commercial photography
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case171/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case171/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3486,7 +3486,7 @@ Ultra-realistic liquid detail, sharp reflections, premium commercial photography
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case172/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case172/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3511,7 +3511,7 @@ Style: luxury fashion editorial, Vogue, Harper’s Bazaar, monochrome aesthetic,
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case173/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case173/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3523,7 +3523,7 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case174/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case174/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3536,7 +3536,7 @@ Create a cinematic 3:4 vertical poster of New York City that feels truly epic an
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case175/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case175/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3548,7 +3548,7 @@ Create a cinematic 3:4 vertical poster of New York City that feels truly epic an
 
 | 出力 |
 | :----: |
-| <img src="./images/poster_case176/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case176/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3700,7 +3700,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 | 出力 |
 | :----: |
-| <img src="./images/character_case10/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case10/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3712,7 +3712,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 | 出力 |
 | :----: |
-| <img src="./images/character_case11/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case11/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3724,7 +3724,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 | 出力 |
 | :----: |
-| <img src="./images/character_case12/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case12/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3736,7 +3736,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 | 出力 |
 | :----: |
-| <img src="./images/character_case13/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case13/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3749,7 +3749,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 | 出力 |
 | :----: |
-| <img src="./images/character_case14/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case14/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -3762,7 +3762,7 @@ A character promotional poster titled “INPUT NAME,” designed in a unified ve
 
 | 出力 |
 | :----: |
-| <img src="./images/character_case15/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/character_case15/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4053,7 +4053,7 @@ Create a commercial ad from the storyboard @[image1]
 
 | 出力 |
 | :----: |
-| <img src="images/ui_case63/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case63/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4065,7 +4065,7 @@ based on the generated character help me generate a screenshot of screenshot of 
 
 | 出力 |
 | :----: |
-| <img src="images/ui_case64/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case64/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4077,7 +4077,7 @@ Create a landing page using this image as a reference for style and color gradin
 
 | 出力 |
 | :----: |
-| <img src="images/ui_case88/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/ui_case88/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4232,7 +4232,7 @@ generate screenshots from a AAA video game based off what The Sims Castaways seq
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case91/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case91/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4244,7 +4244,7 @@ A vertical 9:16 TikTok-style GRWM beauty thumbnail set in a warm, sunlit Mediter
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case92/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case92/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4256,7 +4256,7 @@ A cinematic photorealistic action scene in a rainy downtown city street canyon, 
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case93/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case93/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4268,7 +4268,7 @@ A vibrant anime-style YouTube thumbnail for a livestream gaming broadcast, in a 
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case94/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case94/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4280,7 +4280,7 @@ A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bed
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case95/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case95/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4292,7 +4292,7 @@ A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bed
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case96/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case96/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4304,7 +4304,7 @@ A highly polished anime banner illustration in a warm golden classroom-literatur
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case97/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case97/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4316,7 +4316,7 @@ A polished anime-style banner illustration in a dreamy violet palette, wide cine
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case98/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case98/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4328,7 +4328,7 @@ A glossy pastel pink anime banner in a wide cinematic layout, themed around cute
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case99/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case99/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4340,7 +4340,7 @@ A wide anime banner illustration of {argument name="character name" default="Say
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case100/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case100/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4352,7 +4352,7 @@ A dramatic anime-style cyberpunk witch standing on a dark rooftop high above a d
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case101/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case101/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4364,7 +4364,7 @@ A cinematic anime movie poster for a fictional film titled {argument name="headl
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case102/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case102/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4376,7 +4376,7 @@ Create a dramatic Japanese anime-style promotional thumbnail poster for an event
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case103/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case103/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4388,7 +4388,7 @@ A vibrant pixel-art style mosaic of a tropical parrot perched on a small brown b
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case104/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case104/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4400,7 +4400,7 @@ A cinematic vertical photo of a hand holding up a large balloon wine glass fille
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case105/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case105/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4412,7 +4412,7 @@ Create a {argument name="grid layout" default="4x3"} borderless grid where each 
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case106/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case106/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4424,7 +4424,7 @@ Create a highly realistic image of a handwritten letter containing a ({argument 
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case107/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case107/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4436,7 +4436,7 @@ A dramatic anime concert illustration seen from behind the performers onstage, s
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case108/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case108/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4448,7 +4448,7 @@ A 4x4 photo collage of 16 warm, cinematic lifestyle snapshots featuring a real a
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case109/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case109/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4460,7 +4460,7 @@ A stylish young woman with {argument name="hair style" default="long wavy blonde
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case110/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case110/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4472,7 +4472,7 @@ A cozy anime-style interior of a traditional Japanese soba restaurant, viewed fr
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case111/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case111/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4484,7 +4484,7 @@ A cinematic dark fantasy anime illustration in a ruined gothic cathedral, vertic
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case112/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case112/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4496,7 +4496,7 @@ Based on the shape of the {argument name="subject" default="clouds"} in the imag
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case113/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case113/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4508,7 +4508,7 @@ A cinematic anime-style illustration of a quiet rural Japanese train station in 
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case114/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case114/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4520,7 +4520,7 @@ A candid indoor restaurant photo in a realistic anime-inspired style, showing tw
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case115/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case115/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4532,7 +4532,7 @@ A cozy winter camping scene inside a large beige canvas tent, rendered as a semi
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case116/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case116/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4544,7 +4544,7 @@ Create a 4:5 vertical social poster in ultra high resolution, 8K print quality s
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case117/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case117/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4556,7 +4556,7 @@ A hyper-realistic cinematic street-food advertisement poster for {argument name=
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case118/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case118/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4568,7 +4568,7 @@ A hyper-realistic cinematic street-food advertisement poster for {argument name=
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case119/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case119/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4580,7 +4580,7 @@ A bright, polished anime-style promotional thumbnail with a summer romance atmos
 
 | 出力 |
 | :----: |
-| <img src="./images/ui_case120/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case120/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4804,7 +4804,7 @@ A dusk shindig  with multiple fake imagination projections all aligned in the 14
 
 | 出力 |
 | :----: |
-| <img src="images/case_case61/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case61/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4816,7 +4816,7 @@ Based on the video content and this current frame, use GPT to generate a YouTube
 
 | 出力 |
 | :----: |
-| <img src="images/case_case65/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case65/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4828,7 +4828,7 @@ Generate an image of the most significant event of 2020
 
 | 出力 |
 | :----: |
-| <img src="images/case_case66/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case66/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4840,7 +4840,7 @@ Edit this image so that total amount changes to 244.5 baht. You can change the q
 
 | 出力 |
 | :----: |
-| <img src="images/case_case67/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case67/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4852,7 +4852,7 @@ Generate an image of the most significant event of 2001
 
 | 出力 |
 | :----: |
-| <img src="images/case_case83/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case83/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4864,7 +4864,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case84/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case84/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4876,7 +4876,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case86/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case86/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4888,7 +4888,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case91/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case91/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4900,7 +4900,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case92/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case92/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4912,7 +4912,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case93/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case93/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4948,7 +4948,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case94/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case94/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4960,7 +4960,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case95/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case95/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4972,7 +4972,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case96/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case96/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4986,7 +4986,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case97/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case97/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -4998,7 +4998,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case98/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case98/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5010,7 +5010,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case99/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case99/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5022,7 +5022,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case100/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case100/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5034,7 +5034,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case101/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case101/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5046,7 +5046,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case102/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case102/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5058,7 +5058,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case107/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case107/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5070,7 +5070,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case108/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case108/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5082,7 +5082,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case109/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case109/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5104,7 +5104,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case110/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case110/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5124,7 +5124,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case111/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case111/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5138,7 +5138,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case112/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case112/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5195,7 +5195,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | 出力 |
 | :----: |
-| <img src="images/case_case113/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="images/case_case113/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5210,7 +5210,7 @@ GPT Image-2で生成したやつ→
 
 | 出力 |
 | :----: |
-| <img src="./images/comparison_case70/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case70/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5222,7 +5222,7 @@ A side-by-side comparison graphic on a black background demonstrating a camera-a
 
 | 出力 |
 | :----: |
-| <img src="./images/comparison_case71/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case71/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5234,7 +5234,7 @@ A side-by-side comparison graphic on a black background demonstrating a camera-a
 
 | 出力 |
 | :----: |
-| <img src="./images/comparison_case72/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case72/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5246,7 +5246,7 @@ Create a dramatic Japanese YouTube thumbnail in a futuristic neon cyberpunk styl
 
 | 出力 |
 | :----: |
-| <img src="./images/comparison_case73/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case73/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5258,7 +5258,7 @@ A futuristic Japanese tech comparison poster in a dark cyberpunk control-room se
 
 | 出力 |
 | :----: |
-| <img src="./images/comparison_case74/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case74/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5270,7 +5270,7 @@ A bold Japanese YouTube thumbnail about the AI competition era, 16:9 widescreen,
 
 | 出力 |
 | :----: |
-| <img src="./images/comparison_case75/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case75/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
@@ -5292,7 +5292,7 @@ Use dramatic, saturated lighting, crisp detail, realistic clothing folds, authen
 
 | 出力 |
 | :----: |
-| <img src="./images/comparison_case76/output.jpg" width="300" alt="出力画像"> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case76/output.jpg" width="300" alt="出力画像"></a> |
 
 **プロンプト：**
 
