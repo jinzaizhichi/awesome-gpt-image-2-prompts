@@ -22,43 +22,6 @@
 
 </div>
 
-## Introduction
-
-Welcome to the awesome-gpt-image-2-prompts repository! 🤗
-
-**We collect high-quality prompts and image examples for GPT-Image-2 across portraits, posters, character sheets, UI mockups, and community experiments.**
-
-Most cases in this repository are curated from X/Twitter, creator communities, public demos, and shared experiments.
-
-Try it on Evolink: [GPT-Image-2](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
-
-If you find this useful, consider giving it a star. ⭐
-
-> [!NOTE]
-> This repository focuses on reusable prompt patterns, reference cases, and task-specific examples for GPT-Image-2 on Evolink.
-> Recent prompt-only updates are also tracked in `gpt_image_2_prompt.json`.
-
-<a href='https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
-
-## News
-
-- **April 30, 2026:** Added 9 new GPT-Image-2 prompt cases from the last 24-hour search batch (3 portrait, 1 poster, 3 ui, 2 comparison) after approval and media validation
-- **April 29, 2026:** Added 22 new GPT-Image-2 prompt cases across the review batches (3 e-commerce, 3 ad creative, 4 portrait, 2 character, 9 poster, 1 comparison), synced localized prompt entries for Cases 102 and 103, and incorporated the broader valid keep-set pass
-- **April 26, 2026:** Added 9 new GPT-Image-2 prompt cases (1 character, 7 poster, 1 ui)
-- **April 25, 2026:** Added 81 new GPT-Image-2 prompt cases (2 character, 20 portrait, 42 poster, 17 ui)
-- **April 24, 2026:** Added 19 new GPT-Image-2 prompt cases (6 comparison, 6 poster, 7 ui)
-- **April 23, 2026:** Added 5 new GPT-Image-2 prompt cases (5 ui)
-- **April 20, 2026:** Added 2 new GPT-Image-2 prompt cases (1 character, 1 poster)
-- **April 19, 2026:** Added 5 new GPT-Image-2 prompt cases (3 poster, 2 ui)
-- **April 17, 2026:** Added 1 new GPT-Image-2 prompt cases (1 poster)
-- **April 16, 2026:** Added 1 new GPT-Image-2 prompt cases (1 poster)
-- **April 23, 2026:** Standardized case titles in `README.md` and all localized README files, including menu entries, anchors, and case headings
-- **April 21, 2026:** Categorized 48 new prompt cases into the gallery sections and downloaded linked output images
-- **April 21, 2026:** Added 12 new GPT-Image-2 prompts across portrait, poster, UI, and comparison cases
-- **April 20, 2026:** Added 10 newly curated GPT-Image-2 prompts with local image assets and README updates.
-- **April 19, 2026:** Added 10 new GPT-Image-2 prompts across poster, UI, and comparison cases
-- **April 18, 2026:** First repository release with curated GPT-Image-2 case set
-
 ## 📑 Menu
 
 - [🍌 Introduction](#introduction)
@@ -72,6 +35,37 @@ If you find this useful, consider giving it a star. ⭐
 - [📱 UI & Social Media Mockup Cases](#ui-social-media-mockup-cases)
 - [🧪 Comparison & Community Examples](#comparison-community-examples)
 - [🙏 Acknowledge](#acknowledge)
+- [Case 151: E-commerce Main Image - Miniature Diorama Skincare Advertisement](#case-151-e-commerce-main-image---miniature-diorama-skincare-advertisement)
+- [Case 160: E-commerce Main Image - 9-Panel Product TVC Storyboard](#case-160-e-commerce-main-image---9-panel-product-tvc-storyboard)
+- [Case 163: Burger hero image plus 9-cell ad storyboard](#case-163-burger-hero-image-plus-9-cell-ad-storyboard)
+- [Case 144: Luxury Chronograph Watch Ad](#case-144-luxury-chronograph-watch-ad)
+- [Case 150: Luxury Miniature Dubai City Model](#case-150-luxury-miniature-dubai-city-model)
+- [Case 169: Luxury chocolate campaign system](#case-169-luxury-chocolate-campaign-system)
+- [Case 1: Convenience Store Neon Portrait](#case-1-convenience-store-neon-portrait)
+- [Case 84: Ink-Etched Family Portrait](#case-84-ink-etched-family-portrait)
+- [Case 99: Dreamy Underwater Woman With Translucent Fish](#case-99-dreamy-underwater-woman-with-translucent-fish)
+- [Case 100: Monochrome Glitch Profile Portrait](#case-100-monochrome-glitch-profile-portrait)
+- [Case 101: Basketball Boy Motion Sequence](#case-101-basketball-boy-motion-sequence)
+- [Case 102: Golden Hour Street Side-Profile Portrait](#case-102-golden-hour-street-side-profile-portrait)
+- [Case 3: Chengdu Food Map Illustration](#case-3-chengdu-food-map-illustration)
+- [Case 79: Peacock Botanical Vintage Symmetrical Art Print](#case-79-peacock-botanical-vintage-symmetrical-art-print)
+- [Case 174: New York across two centuries cinematic poster](#case-174-new-york-across-two-centuries-cinematic-poster)
+- [Case 175: Fitness Boxing Campaign Collage Poster](#case-175-fitness-boxing-campaign-collage-poster)
+- [Case 2: Persona5 Character Reference Card](#case-2-persona5-character-reference-card)
+- [Case 7: Mecha Girl Sea-City Key Visual](#case-7-mecha-girl-sea-city-key-visual)
+- [Case 11: GTA 6 in Bangalore Flower Market](#case-11-gta-6-in-bangalore-flower-market)
+- [Case 1: One-Prompt UI Design Generation](#case-1-one-prompt-ui-design-generation)
+- [Case 38: Cyberpunk Neon UI Design System](#case-38-cyberpunk-neon-ui-design-system)
+- [Case 105: Multi-Panel Image Board Template](#case-105-multi-panel-image-board-template)
+- [Case 106: Personal Color Analysis Graphic Board](#case-106-personal-color-analysis-graphic-board)
+- [Case 107: Futuristic Hall Fashion Shot Sequence](#case-107-futuristic-hall-fashion-shot-sequence)
+- [Case 108: High-Fashion Beverage Campaign Board](#case-108-high-fashion-beverage-campaign-board)
+- [Case 35: Sam Altman Bear Selfie](#case-35-sam-altman-bear-selfie)
+- [Case 41: Generate an image of the most significant event of 2020](#case-41-generate-an-image-of-the-most-significant-event-of-2020)
+- [Case 68: Naturalist-Style Food Specimen Cross-Section](#case-68-naturalist-style-food-specimen-cross-section)
+- [Case 69: 视觉品牌拆解图](#case-69-视觉品牌拆解图)
+- [Case 70: Apartment Drama Animation Storyboard Sheet](#case-70-apartment-drama-animation-storyboard-sheet)
+
 ## 🛒 E-commerce Cases
 
 > See all cases → [cases/ecommerce.md](cases/ecommerce.md)
