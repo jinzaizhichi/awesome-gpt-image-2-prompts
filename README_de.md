@@ -54,28 +54,28 @@ Wenn dir das nuetzt, gib dem Repository gern einen Star. ⭐
 
 ## Inhaltsverzeichnis
 
-- [🍌 Introduction](#introduction)
-- [📰 News](#news)
-- [📑 Menu](#menu)
-- [🛒 E-commerce Cases](#e-commerce-cases)
+- [🍌 Einführung](#einfuhrung)
+- [📰 Neuigkeiten](#neuigkeiten)
+- [📑 Inhaltsverzeichnis](#inhaltsverzeichnis)
+- [🛒 E-commerce Cases](#-e-commerce-cases)
   - [Open category README](cases/ecommerce_de.md)
-- [📣 Ad Creative Cases](#ad-creative-cases)
+- [📣 Ad Creative Cases](#-ad-creative-cases)
   - [Open category README](cases/ad-creative_de.md)
-- [🍌 Portrait & Photography Cases](#portrait-photography-cases)
+- [🍌 Portrait & Photography Cases](#-portrait-photography-cases)
   - [Open category README](cases/portrait_de.md)
-- [🎨 Poster & Illustration Cases](#poster-illustration-cases)
+- [🎨 Poster & Illustration Cases](#-poster-illustration-cases)
   - [Open category README](cases/poster_de.md)
-- [🧍 Character Design Cases](#character-design-cases)
+- [🧍 Character Design Cases](#-character-design-cases)
   - [Open category README](cases/character_de.md)
-- [📱 UI & Social Media Mockup Cases](#ui-social-media-mockup-cases)
-  - [Open category README](cases/ui-social_de.md)
-- [🧪 Comparison & Community Examples](#comparison-community-examples)
+- [📱 UI & Social Media Mockup Cases](#-ui-social-media-mockup-cases)
+  - [Open category README](cases/ui_de.md)
+- [🧪 Comparison & Community Examples](#-comparison-community-examples)
   - [Open category README](cases/comparison_de.md)
-- [🙏 Acknowledge](#acknowledge)
+- [🙏 Danksagung](#danksagung)
 
 ## 🛒 E-commerce Cases
 
-> See all cases → [cases/ecommerce.md](cases/ecommerce.md)
+> See all cases → [cases/ecommerce.md](cases/ecommerce_de.md)
 
 ### Case 151: [E-commerce Main Image - Miniature Diorama Skincare Advertisement](https://x.com/Strength04_X/status/2048074514278563949) (by [@Strength04_X](https://x.com/Strength04_X))
 
@@ -117,7 +117,7 @@ Prompt 2: Create a 9-cell hybrid keyframe-to-transition storyboard sheet for a 1
 
 ## 📣 Ad Creative Cases
 
-> See all cases → [cases/ad-creative.md](cases/ad-creative.md)
+> See all cases → [cases/ad-creative.md](cases/ad-creative_de.md)
 
 ### Case 144: [Luxury Chronograph Watch Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
 
@@ -157,7 +157,7 @@ Create a premium, square (1:1) product advertisement for a fictional luxury choc
 
 ## 🍌 Portrait & Photography Cases
 
-> See all cases → [cases/portrait.md](cases/portrait.md)
+> See all cases → [cases/portrait.md](cases/portrait_de.md)
 
 ### Case 1: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
@@ -263,7 +263,7 @@ Generate image using uploaded image as reference
 
 ## 🎨 Poster & Illustration Cases
 
-> See all cases → [cases/poster.md](cases/poster.md)
+> See all cases → [cases/poster.md](cases/poster_de.md)
 
 ### Case 3: [Chengdu Food Map Illustration](https://x.com/Panda20230902/status/2045396918965285111) (by [@Panda20230902](https://x.com/Panda20230902))
 
@@ -324,7 +324,7 @@ premium fitness brand campaign, dramatic studio lighting, soft shadows, high con
 
 ## 🧍 Character Design Cases
 
-> See all cases → [cases/character.md](cases/character.md)
+> See all cases → [cases/character.md](cases/character_de.md)
 
 ### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
 
@@ -367,7 +367,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 ## 📱 UI & Social Media Mockup Cases
 
-> See all cases → [cases/ui.md](cases/ui.md)
+> See all cases → [cases/ui.md](cases/ui_de.md)
 
 ### Case 1: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))
 
@@ -552,7 +552,7 @@ Aspect ratio: vertical (9:16 preferred)
 
 ## 🧪 Comparison & Community Examples
 
-> See all cases → [cases/comparison.md](cases/comparison.md)
+> See all cases → [cases/comparison.md](cases/comparison_de.md)
 
 ### Case 35: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
 

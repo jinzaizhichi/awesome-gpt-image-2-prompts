@@ -22,49 +22,31 @@
 
 </div>
 
+## 🍌 Introduction
+
+## 📰 News
+
 ## 📑 Menu
 
-- [🍌 Introduction](#introduction)
-- [📰 News](#news)
-- [📑 Menu](#menu)
-- [🛒 E-commerce Cases](#e-commerce-cases)
-- [📣 Ad Creative Cases](#ad-creative-cases)
-- [🍌 Portrait & Photography Cases](#portrait-photography-cases)
-- [🎨 Poster & Illustration Cases](#poster-illustration-cases)
-- [🧍 Character Design Cases](#character-design-cases)
-- [📱 UI & Social Media Mockup Cases](#ui-social-media-mockup-cases)
-- [🧪 Comparison & Community Examples](#comparison-community-examples)
+- [🍌 Introduction](#-introduction)
+- [📰 News](#-news)
+- [📑 Menu](#-menu)
+- [🛒 E-commerce Cases](#-e-commerce-cases)
+  - [Open category README](cases/ecommerce.md)
+- [📣 Ad Creative Cases](#-ad-creative-cases)
+  - [Open category README](cases/ad-creative.md)
+- [🍌 Portrait & Photography Cases](#-portrait-photography-cases)
+  - [Open category README](cases/portrait.md)
+- [🎨 Poster & Illustration Cases](#-poster-illustration-cases)
+  - [Open category README](cases/poster.md)
+- [🧍 Character Design Cases](#-character-design-cases)
+  - [Open category README](cases/character.md)
+- [📱 UI & Social Media Mockup Cases](#-ui-social-media-mockup-cases)
+  - [Open category README](cases/ui.md)
+- [🧪 Comparison & Community Examples](#-comparison-community-examples)
+  - [Open category README](cases/comparison.md)
 - [🙏 Acknowledge](#acknowledge)
-- [Case 151: E-commerce Main Image - Miniature Diorama Skincare Advertisement](#case-151-e-commerce-main-image---miniature-diorama-skincare-advertisement)
-- [Case 160: E-commerce Main Image - 9-Panel Product TVC Storyboard](#case-160-e-commerce-main-image---9-panel-product-tvc-storyboard)
-- [Case 163: Burger hero image plus 9-cell ad storyboard](#case-163-burger-hero-image-plus-9-cell-ad-storyboard)
-- [Case 144: Luxury Chronograph Watch Ad](#case-144-luxury-chronograph-watch-ad)
-- [Case 150: Luxury Miniature Dubai City Model](#case-150-luxury-miniature-dubai-city-model)
-- [Case 169: Luxury chocolate campaign system](#case-169-luxury-chocolate-campaign-system)
-- [Case 1: Convenience Store Neon Portrait](#case-1-convenience-store-neon-portrait)
-- [Case 84: Ink-Etched Family Portrait](#case-84-ink-etched-family-portrait)
-- [Case 99: Dreamy Underwater Woman With Translucent Fish](#case-99-dreamy-underwater-woman-with-translucent-fish)
-- [Case 100: Monochrome Glitch Profile Portrait](#case-100-monochrome-glitch-profile-portrait)
-- [Case 101: Basketball Boy Motion Sequence](#case-101-basketball-boy-motion-sequence)
-- [Case 102: Golden Hour Street Side-Profile Portrait](#case-102-golden-hour-street-side-profile-portrait)
-- [Case 3: Chengdu Food Map Illustration](#case-3-chengdu-food-map-illustration)
-- [Case 79: Peacock Botanical Vintage Symmetrical Art Print](#case-79-peacock-botanical-vintage-symmetrical-art-print)
-- [Case 174: New York across two centuries cinematic poster](#case-174-new-york-across-two-centuries-cinematic-poster)
-- [Case 175: Fitness Boxing Campaign Collage Poster](#case-175-fitness-boxing-campaign-collage-poster)
-- [Case 2: Persona5 Character Reference Card](#case-2-persona5-character-reference-card)
-- [Case 7: Mecha Girl Sea-City Key Visual](#case-7-mecha-girl-sea-city-key-visual)
-- [Case 11: GTA 6 in Bangalore Flower Market](#case-11-gta-6-in-bangalore-flower-market)
-- [Case 1: One-Prompt UI Design Generation](#case-1-one-prompt-ui-design-generation)
-- [Case 38: Cyberpunk Neon UI Design System](#case-38-cyberpunk-neon-ui-design-system)
-- [Case 105: Multi-Panel Image Board Template](#case-105-multi-panel-image-board-template)
-- [Case 106: Personal Color Analysis Graphic Board](#case-106-personal-color-analysis-graphic-board)
-- [Case 107: Futuristic Hall Fashion Shot Sequence](#case-107-futuristic-hall-fashion-shot-sequence)
-- [Case 108: High-Fashion Beverage Campaign Board](#case-108-high-fashion-beverage-campaign-board)
-- [Case 35: Sam Altman Bear Selfie](#case-35-sam-altman-bear-selfie)
-- [Case 41: Generate an image of the most significant event of 2020](#case-41-generate-an-image-of-the-most-significant-event-of-2020)
-- [Case 68: Naturalist-Style Food Specimen Cross-Section](#case-68-naturalist-style-food-specimen-cross-section)
-- [Case 69: 视觉品牌拆解图](#case-69-视觉品牌拆解图)
-- [Case 70: Apartment Drama Animation Storyboard Sheet](#case-70-apartment-drama-animation-storyboard-sheet)
+
 
 ## 🛒 E-commerce Cases
 
