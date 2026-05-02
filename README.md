@@ -26,6 +26,21 @@
 
 ## 📰 News
 
+- **April 30, 2026:** Added 9 new GPT-Image-2 prompt cases from the last 24-hour search batch (3 portrait, 1 poster, 3 ui, 2 comparison) after approval and media validation
+- **April 29, 2026:** Added 22 new GPT-Image-2 prompt cases across the review batches (3 e-commerce, 3 ad creative, 4 portrait, 2 character, 9 poster, 1 comparison), synced localized prompt entries for Cases 102 and 103, and incorporated the broader valid keep-set pass
+- **April 26, 2026:** Added 9 new GPT-Image-2 prompt cases (1 character, 7 poster, 1 ui)
+- **April 25, 2026:** Added 81 new GPT-Image-2 prompt cases (2 character, 20 portrait, 42 poster, 17 ui)
+- **April 24, 2026:** Added 19 new GPT-Image-2 prompt cases (6 comparison, 6 poster, 7 ui)
+- **April 23, 2026:** Added 5 new GPT-Image-2 prompt cases (5 ui)
+- **April 23, 2026:** Standardized case titles in `README.md` and all localized README files, including menu entries, anchors, and case headings
+- **April 21, 2026:** Categorized 48 new prompt cases into the gallery sections and downloaded linked output images
+- **April 21, 2026:** Added 12 new GPT-Image-2 prompts across portrait, poster, UI, and comparison cases
+- **April 20, 2026:** Added 10 newly curated GPT-Image-2 prompts with local image assets and README updates.
+- **April 20, 2026:** Added 2 new GPT-Image-2 prompt cases (1 character, 1 poster)
+- **April 19, 2026:** Added 10 new GPT-Image-2 prompts across poster, UI, and comparison cases
+- **April 19, 2026:** Added 5 new GPT-Image-2 prompt cases (3 poster, 2 ui)
+- **April 18, 2026:** First repository release with curated GPT-Image-2 case set
+
 ## 📑 Menu
 
 - [🍌 Introduction](#-introduction)
